@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-23T18:10:50 IST" name="Default suite" finished-at="2025-04-23T18:11:34 IST" duration-ms="44324">
+    <groups>
+    </groups>
+    <test started-at="2025-04-23T18:10:50 IST" name="Default test" finished-at="2025-04-23T18:11:34 IST" duration-ms="44324">
+      <class name="com.qa.test.student_registration.VerifyStudentRegistation">
+        <test-method is-config="true" signature="startExtentReport()[pri:0, instance:com.qa.test.student_registration.VerifyStudentRegistation@30a7c98f]" started-at="2025-04-23T18:10:49 IST" name="startExtentReport" finished-at="2025-04-23T18:10:50 IST" duration-ms="1170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtentReport -->
+        <test-method is-config="true" signature="PreRequisite()[pri:0, instance:com.qa.test.student_registration.VerifyStudentRegistation@30a7c98f]" started-at="2025-04-23T18:10:50 IST" name="PreRequisite" finished-at="2025-04-23T18:11:04 IST" duration-ms="13558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PreRequisite -->
+        <test-method is-config="true" signature="beforeTestResult(java.lang.reflect.Method)[pri:0, instance:com.qa.test.student_registration.VerifyStudentRegistation@30a7c98f]" started-at="2025-04-23T18:11:04 IST" name="beforeTestResult" finished-at="2025-04-23T18:11:04 IST" duration-ms="60" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.test.student_registration.VerifyStudentRegistation.TC_001_verifyStudentRegistration() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestResult -->
+        <test-method signature="TC_001_verifyStudentRegistration()[pri:1, instance:com.qa.test.student_registration.VerifyStudentRegistation@30a7c98f]" started-at="2025-04-23T18:11:04 IST" name="TC_001_verifyStudentRegistration" finished-at="2025-04-23T18:11:08 IST" duration-ms="4569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001_verifyStudentRegistration -->
+        <test-method is-config="true" signature="afterTestResult(org.testng.ITestResult)[pri:0, instance:com.qa.test.student_registration.VerifyStudentRegistation@30a7c98f]" started-at="2025-04-23T18:11:08 IST" name="afterTestResult" finished-at="2025-04-23T18:11:08 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_001_verifyStudentRegistration status=SUCCESS method=VerifyStudentRegistation.TC_001_verifyStudentRegistration()[pri:1, instance:com.qa.test.student_registration.VerifyStudentRegistation@30a7c98f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestResult -->
+        <test-method signature="TC_002_verifyStudentEmail()[pri:2, instance:com.qa.test.student_registration.VerifyStudentRegistation@30a7c98f]" started-at="2025-04-23T18:11:08 IST" name="TC_002_verifyStudentEmail" finished-at="2025-04-23T18:11:24 IST" duration-ms="15791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002_verifyStudentEmail -->
+        <test-method is-config="true" signature="beforeTestResult(java.lang.reflect.Method)[pri:0, instance:com.qa.test.student_registration.VerifyStudentRegistation@30a7c98f]" started-at="2025-04-23T18:11:08 IST" name="beforeTestResult" finished-at="2025-04-23T18:11:08 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.test.student_registration.VerifyStudentRegistation.TC_002_verifyStudentEmail() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestResult -->
+        <test-method is-config="true" signature="afterTestResult(org.testng.ITestResult)[pri:0, instance:com.qa.test.student_registration.VerifyStudentRegistation@30a7c98f]" started-at="2025-04-23T18:11:24 IST" name="afterTestResult" finished-at="2025-04-23T18:11:24 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_002_verifyStudentEmail status=SUCCESS method=VerifyStudentRegistation.TC_002_verifyStudentEmail()[pri:2, instance:com.qa.test.student_registration.VerifyStudentRegistation@30a7c98f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestResult -->
+        <test-method is-config="true" signature="beforeTestResult(java.lang.reflect.Method)[pri:0, instance:com.qa.test.student_registration.VerifyStudentRegistation@30a7c98f]" started-at="2025-04-23T18:11:24 IST" name="beforeTestResult" finished-at="2025-04-23T18:11:24 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.test.student_registration.VerifyStudentRegistation.TC_003_loginByRegisterStudent() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestResult -->
+        <test-method signature="TC_003_loginByRegisterStudent()[pri:3, instance:com.qa.test.student_registration.VerifyStudentRegistation@30a7c98f]" started-at="2025-04-23T18:11:24 IST" name="TC_003_loginByRegisterStudent" finished-at="2025-04-23T18:11:27 IST" duration-ms="2303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_003_loginByRegisterStudent -->
+        <test-method is-config="true" signature="afterTestResult(org.testng.ITestResult)[pri:0, instance:com.qa.test.student_registration.VerifyStudentRegistation@30a7c98f]" started-at="2025-04-23T18:11:27 IST" name="afterTestResult" finished-at="2025-04-23T18:11:27 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_003_loginByRegisterStudent status=SUCCESS method=VerifyStudentRegistation.TC_003_loginByRegisterStudent()[pri:3, instance:com.qa.test.student_registration.VerifyStudentRegistation@30a7c98f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestResult -->
+        <test-method is-config="true" signature="beforeTestResult(java.lang.reflect.Method)[pri:0, instance:com.qa.test.student_registration.VerifyStudentRegistation@30a7c98f]" started-at="2025-04-23T18:11:27 IST" name="beforeTestResult" finished-at="2025-04-23T18:11:27 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.test.student_registration.VerifyStudentRegistation.TC_004_verifyStudentNameAfterLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestResult -->
+        <test-method signature="TC_004_verifyStudentNameAfterLogin()[pri:4, instance:com.qa.test.student_registration.VerifyStudentRegistation@30a7c98f]" started-at="2025-04-23T18:11:27 IST" name="TC_004_verifyStudentNameAfterLogin" finished-at="2025-04-23T18:11:34 IST" duration-ms="7705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_004_verifyStudentNameAfterLogin -->
+        <test-method is-config="true" signature="afterTestResult(org.testng.ITestResult)[pri:0, instance:com.qa.test.student_registration.VerifyStudentRegistation@30a7c98f]" started-at="2025-04-23T18:11:34 IST" name="afterTestResult" finished-at="2025-04-23T18:11:34 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_004_verifyStudentNameAfterLogin status=SUCCESS method=VerifyStudentRegistation.TC_004_verifyStudentNameAfterLogin()[pri:4, instance:com.qa.test.student_registration.VerifyStudentRegistation@30a7c98f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestResult -->
+        <test-method is-config="true" signature="endExtentReport()[pri:0, instance:com.qa.test.student_registration.VerifyStudentRegistation@30a7c98f]" started-at="2025-04-23T18:11:34 IST" name="endExtentReport" finished-at="2025-04-23T18:11:35 IST" duration-ms="1018" status="FAIL">
+          <exception class="java.io.IOException">
+            <message>
+              <![CDATA[Cannot run program "C:\Users\vikas.verma\eclipse-workspace\Ascent_One_Automation_Hybrid/allureReport.bat": CreateProcess error=2, The system cannot find the file specified]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.io.IOException: Cannot run program "C:\Users\vikas.verma\eclipse-workspace\Ascent_One_Automation_Hybrid/allureReport.bat": CreateProcess error=2, The system cannot find the file specified
+at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+at com.ascentone.qa.base.TestBase.runBatFile(TestBase.java:183)
+at com.ascentone.qa.base.TestBase.gererateAllureReport(TestBase.java:281)
+at com.ascentone.qa.base.TestBase.endExtentReport(TestBase.java:273)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:386)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+Caused by: java.io.IOException: CreateProcess error=2, The system cannot find the file specified
+at java.base/java.lang.ProcessImpl.create(Native Method)
+at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:506)
+at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:159)
+at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+... 21 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.io.IOException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endExtentReport -->
+      </class> <!-- com.qa.test.student_registration.VerifyStudentRegistation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

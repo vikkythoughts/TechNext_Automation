@@ -1,0 +1,246 @@
+2025-04-22 16:16:36 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 135.0.7049.96
+2025-04-22 16:16:36 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-04-22 16:16:41 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8422/Login.aspx?ekey=C292B2CF-DCD8-4ED6-9F7C-B1EB62A7D17D
+
+2025-04-22 16:16:41 - INFO  - (TestBase.java:218) => ===== Starting TC_001_verifyStudentRegistration() Test =====
+2025-04-22 16:16:41 - INFO  - (StudentRegistration.java:88) => Cliked on register button from login page
+2025-04-22 16:16:42 - INFO  - (StudentRegistration.java:94) => Title selected
+2025-04-22 16:16:42 - INFO  - (StudentRegistration.java:99) => Entered student name
+2025-04-22 16:16:42 - INFO  - (StudentRegistration.java:104) => Entered student middle name
+2025-04-22 16:16:42 - INFO  - (StudentRegistration.java:110) => Gender selected
+2025-04-22 16:16:43 - INFO  - (StudentRegistration.java:115) => Entered student date of birth
+2025-04-22 16:16:43 - INFO  - (StudentRegistration.java:121) => Marital status selected
+2025-04-22 16:16:43 - INFO  - (StudentRegistration.java:128) => Country Of Citizenship selected
+2025-04-22 16:16:43 - INFO  - (StudentRegistration.java:135) => Country Of Current Residence selected
+2025-04-22 16:16:43 - INFO  - (StudentRegistration.java:140) => Entered student email address
+2025-04-22 16:16:44 - INFO  - (StudentRegistration.java:147) => Mobile country selected
+2025-04-22 16:16:44 - INFO  - (StudentRegistration.java:152) => Entered student mobile number
+2025-04-22 16:16:44 - INFO  - (StudentRegistration.java:158) => Secret Question selected
+2025-04-22 16:16:44 - INFO  - (StudentRegistration.java:163) => Secret Answer entered
+2025-04-22 16:16:44 - INFO  - (StudentRegistration.java:168) => Entered Password
+2025-04-22 16:16:44 - INFO  - (StudentRegistration.java:173) => Entered Confirm Password
+2025-04-22 16:16:45 - INFO  - (StudentRegistration.java:178) => Cliked on done button after entered student details
+2025-04-22 16:16:45 - INFO  - (VerifyStudentRegistation.java:36) => Student Register successgully
+2025-04-22 16:16:45 - INFO  - (TestBase.java:251) => ===== Ending TC_001_verifyStudentRegistration() Test =====
+
+2025-04-22 16:16:45 - INFO  - (TestBase.java:218) => ===== Starting TC_002_verifyStudentEmail() Test =====
+2025-04-22 16:17:00 - INFO  - (VerifyStudentRegistation.java:53) => Student email successfully verified
+2025-04-22 16:17:00 - INFO  - (TestBase.java:251) => ===== Ending TC_002_verifyStudentEmail() Test =====
+
+2025-04-22 16:17:00 - INFO  - (TestBase.java:218) => ===== Starting TC_003_loginByRegisterStudent() Test =====
+2025-04-22 16:17:02 - INFO  - (StudentRegistration.java:218) => Entered Password to login registered student
+2025-04-22 16:17:02 - INFO  - (StudentRegistration.java:223) => Cliked on login button
+2025-04-22 16:17:02 - INFO  - (VerifyStudentRegistation.java:69) => Registered student login successfully
+2025-04-22 16:17:02 - INFO  - (TestBase.java:251) => ===== Ending TC_003_loginByRegisterStudent() Test =====
+
+2025-04-22 16:17:02 - INFO  - (TestBase.java:218) => ===== Starting TC_004_verifyStudentNameAfterLogin() Test =====
+2025-04-22 16:17:08 - INFO  - (VerifyStudentRegistation.java:88) => Student Name is displayed on student profile page
+2025-04-22 16:17:08 - INFO  - (TestBase.java:251) => ===== Ending TC_004_verifyStudentNameAfterLogin() Test =====
+
+2025-04-22 17:10:50 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 135.0.7049.96
+2025-04-22 17:10:50 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-04-22 17:10:52 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8422/Login.aspx?ekey=C292B2CF-DCD8-4ED6-9F7C-B1EB62A7D17D
+
+2025-04-22 17:10:52 - INFO  - (TestBase.java:218) => ===== Starting TC_001_verifyStudentRegistration() Test =====
+2025-04-22 17:10:56 - INFO  - (StudentRegistration.java:89) => Cliked on register button from login page
+2025-04-22 17:11:43 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 135.0.7049.96
+2025-04-22 17:11:43 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-04-22 17:11:48 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8422/Login.aspx?ekey=C292B2CF-DCD8-4ED6-9F7C-B1EB62A7D17D
+
+2025-04-22 17:11:49 - INFO  - (TestBase.java:218) => ===== Starting TC_001_verifyStudentRegistration() Test =====
+2025-04-22 17:11:50 - INFO  - (StudentRegistration.java:89) => Cliked on register button from login page
+2025-04-22 17:11:51 - INFO  - (StudentRegistration.java:95) => Title selected
+2025-04-22 17:11:51 - INFO  - (StudentRegistration.java:100) => Entered student name
+2025-04-22 17:11:51 - INFO  - (StudentRegistration.java:105) => Entered student middle name
+2025-04-22 17:11:52 - INFO  - (StudentRegistration.java:111) => Gender selected
+2025-04-22 17:11:52 - INFO  - (StudentRegistration.java:116) => Entered student date of birth
+2025-04-22 17:11:52 - INFO  - (StudentRegistration.java:122) => Marital status selected
+2025-04-22 17:11:52 - INFO  - (StudentRegistration.java:129) => Country Of Citizenship selected
+2025-04-22 17:11:53 - INFO  - (StudentRegistration.java:136) => Country Of Current Residence selected
+2025-04-22 17:11:53 - INFO  - (StudentRegistration.java:141) => Entered student email address
+2025-04-22 17:11:53 - INFO  - (StudentRegistration.java:148) => Mobile country selected
+2025-04-22 17:11:53 - INFO  - (StudentRegistration.java:153) => Entered student mobile number
+2025-04-22 17:11:54 - INFO  - (StudentRegistration.java:159) => Secret Question selected
+2025-04-22 17:11:54 - INFO  - (StudentRegistration.java:164) => Secret Answer entered
+2025-04-22 17:11:54 - INFO  - (StudentRegistration.java:169) => Entered Password
+2025-04-22 17:11:54 - INFO  - (StudentRegistration.java:174) => Entered Confirm Password
+2025-04-22 17:11:54 - INFO  - (StudentRegistration.java:179) => Cliked on done button after entered student details
+2025-04-22 17:11:54 - INFO  - (VerifyStudentRegistation.java:36) => Student Register successgully
+2025-04-22 17:11:54 - INFO  - (TestBase.java:251) => ===== Ending TC_001_verifyStudentRegistration() Test =====
+
+2025-04-22 17:11:54 - INFO  - (TestBase.java:218) => ===== Starting TC_002_verifyStudentEmail() Test =====
+2025-04-22 17:12:10 - INFO  - (VerifyStudentRegistation.java:53) => Student email successfully verified
+2025-04-22 17:12:10 - INFO  - (TestBase.java:251) => ===== Ending TC_002_verifyStudentEmail() Test =====
+
+2025-04-22 17:12:10 - INFO  - (TestBase.java:218) => ===== Starting TC_003_loginByRegisterStudent() Test =====
+2025-04-22 17:12:12 - INFO  - (StudentRegistration.java:219) => Entered Password to login registered student
+2025-04-22 17:12:12 - INFO  - (StudentRegistration.java:224) => Cliked on login button
+2025-04-22 17:12:12 - INFO  - (VerifyStudentRegistation.java:69) => Registered student login successfully
+2025-04-22 17:12:12 - INFO  - (TestBase.java:251) => ===== Ending TC_003_loginByRegisterStudent() Test =====
+
+2025-04-22 17:12:12 - INFO  - (TestBase.java:218) => ===== Starting TC_004_verifyStudentNameAfterLogin() Test =====
+2025-04-22 17:12:23 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\eclipse-workspace\Ascent_One_Automation_Hybrid\TestReports\Screenshot\TC_004_verifyStudentNameAfterLogin_20250422051223.png'> <img src='C:\Users\vikas.verma\eclipse-workspace\Ascent_One_Automation_Hybrid\TestReports\Screenshot\TC_004_verifyStudentNameAfterLogin_20250422051223.png' height='400' width='700'/> </a>
+2025-04-22 17:12:23 - INFO  - (TestBase.java:251) => ===== Ending TC_004_verifyStudentNameAfterLogin() Test =====
+
+2025-04-22 17:19:08 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 135.0.7049.96
+2025-04-22 17:19:08 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-04-22 17:19:13 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8422/Login.aspx?ekey=C292B2CF-DCD8-4ED6-9F7C-B1EB62A7D17D
+
+2025-04-22 17:19:14 - INFO  - (TestBase.java:218) => ===== Starting TC_001_verifyStudentRegistration() Test =====
+2025-04-22 17:19:15 - INFO  - (StudentRegistration.java:89) => Cliked on register button from login page
+2025-04-22 17:19:17 - INFO  - (StudentRegistration.java:95) => Title selected
+2025-04-22 17:19:17 - INFO  - (StudentRegistration.java:100) => Entered student name
+2025-04-22 17:19:17 - INFO  - (StudentRegistration.java:105) => Entered student middle name
+2025-04-22 17:19:18 - INFO  - (StudentRegistration.java:111) => Gender selected
+2025-04-22 17:19:18 - INFO  - (StudentRegistration.java:116) => Entered student date of birth
+2025-04-22 17:19:18 - INFO  - (StudentRegistration.java:122) => Marital status selected
+2025-04-22 17:19:19 - INFO  - (StudentRegistration.java:129) => Country Of Citizenship selected
+2025-04-22 17:19:19 - INFO  - (StudentRegistration.java:136) => Country Of Current Residence selected
+2025-04-22 17:19:19 - INFO  - (StudentRegistration.java:141) => Entered student email address
+2025-04-22 17:19:19 - INFO  - (StudentRegistration.java:148) => Mobile country selected
+2025-04-22 17:19:19 - INFO  - (StudentRegistration.java:153) => Entered student mobile number
+2025-04-22 17:19:20 - INFO  - (StudentRegistration.java:159) => Secret Question selected
+2025-04-22 17:19:20 - INFO  - (StudentRegistration.java:164) => Secret Answer entered
+2025-04-22 17:19:20 - INFO  - (StudentRegistration.java:169) => Entered Password
+2025-04-22 17:19:20 - INFO  - (StudentRegistration.java:174) => Entered Confirm Password
+2025-04-22 17:19:20 - INFO  - (StudentRegistration.java:179) => Cliked on done button after entered student details
+2025-04-22 17:19:20 - INFO  - (VerifyStudentRegistation.java:36) => Student Register successgully
+2025-04-22 17:19:20 - INFO  - (TestBase.java:251) => ===== Ending TC_001_verifyStudentRegistration() Test =====
+
+2025-04-22 17:19:20 - INFO  - (TestBase.java:218) => ===== Starting TC_002_verifyStudentEmail() Test =====
+2025-04-22 17:19:58 - INFO  - (VerifyStudentRegistation.java:53) => Student email successfully verified
+2025-04-22 17:19:58 - INFO  - (TestBase.java:251) => ===== Ending TC_002_verifyStudentEmail() Test =====
+
+2025-04-22 17:19:58 - INFO  - (TestBase.java:218) => ===== Starting TC_003_loginByRegisterStudent() Test =====
+2025-04-22 17:20:00 - INFO  - (StudentRegistration.java:219) => Entered Password to login registered student
+2025-04-22 17:20:01 - INFO  - (StudentRegistration.java:224) => Cliked on login button
+2025-04-22 17:20:01 - INFO  - (VerifyStudentRegistation.java:69) => Registered student login successfully
+2025-04-22 17:20:01 - INFO  - (TestBase.java:251) => ===== Ending TC_003_loginByRegisterStudent() Test =====
+
+2025-04-22 17:20:01 - INFO  - (TestBase.java:218) => ===== Starting TC_004_verifyStudentNameAfterLogin() Test =====
+2025-04-22 17:20:06 - INFO  - (VerifyStudentRegistation.java:88) => Student Name is displayed on student profile page
+2025-04-22 17:20:06 - INFO  - (TestBase.java:251) => ===== Ending TC_004_verifyStudentNameAfterLogin() Test =====
+
+2025-04-22 17:25:00 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 135.0.7049.96
+2025-04-22 17:25:00 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-04-22 17:25:01 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8422/Login.aspx?ekey=C292B2CF-DCD8-4ED6-9F7C-B1EB62A7D17D
+
+2025-04-22 17:25:01 - INFO  - (TestBase.java:218) => ===== Starting TC_001_verifyStudentRegistration() Test =====
+2025-04-22 17:25:05 - INFO  - (StudentRegistration.java:89) => Cliked on register button from login page
+2025-04-22 17:25:22 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 135.0.7049.96
+2025-04-22 17:25:22 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-04-22 17:25:27 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8422/Login.aspx?ekey=C292B2CF-DCD8-4ED6-9F7C-B1EB62A7D17D
+
+2025-04-22 17:25:27 - INFO  - (TestBase.java:218) => ===== Starting TC_001_verifyStudentRegistration() Test =====
+2025-04-22 17:25:27 - INFO  - (StudentRegistration.java:89) => Cliked on register button from login page
+2025-04-22 17:25:28 - INFO  - (StudentRegistration.java:95) => Title selected
+2025-04-22 17:25:28 - INFO  - (StudentRegistration.java:100) => Entered student name
+2025-04-22 17:25:29 - INFO  - (StudentRegistration.java:105) => Entered student middle name
+2025-04-22 17:25:29 - INFO  - (StudentRegistration.java:111) => Gender selected
+2025-04-22 17:25:29 - INFO  - (StudentRegistration.java:116) => Entered student date of birth
+2025-04-22 17:25:29 - INFO  - (StudentRegistration.java:122) => Marital status selected
+2025-04-22 17:25:29 - INFO  - (StudentRegistration.java:129) => Country Of Citizenship selected
+2025-04-22 17:25:30 - INFO  - (StudentRegistration.java:136) => Country Of Current Residence selected
+2025-04-22 17:25:30 - INFO  - (StudentRegistration.java:141) => Entered student email address
+2025-04-22 17:25:30 - INFO  - (StudentRegistration.java:148) => Mobile country selected
+2025-04-22 17:25:30 - INFO  - (StudentRegistration.java:153) => Entered student mobile number
+2025-04-22 17:25:31 - INFO  - (StudentRegistration.java:159) => Secret Question selected
+2025-04-22 17:25:31 - INFO  - (StudentRegistration.java:164) => Secret Answer entered
+2025-04-22 17:25:31 - INFO  - (StudentRegistration.java:169) => Entered Password
+2025-04-22 17:25:31 - INFO  - (StudentRegistration.java:174) => Entered Confirm Password
+2025-04-22 17:25:31 - INFO  - (StudentRegistration.java:179) => Cliked on done button after entered student details
+2025-04-22 17:25:31 - INFO  - (VerifyStudentRegistation.java:36) => Student Register successgully
+2025-04-22 17:25:31 - INFO  - (TestBase.java:251) => ===== Ending TC_001_verifyStudentRegistration() Test =====
+
+2025-04-22 17:25:31 - INFO  - (TestBase.java:218) => ===== Starting TC_002_verifyStudentEmail() Test =====
+2025-04-22 17:25:49 - INFO  - (VerifyStudentRegistation.java:53) => Student email successfully verified
+2025-04-22 17:25:49 - INFO  - (TestBase.java:251) => ===== Ending TC_002_verifyStudentEmail() Test =====
+
+2025-04-22 17:25:49 - INFO  - (TestBase.java:218) => ===== Starting TC_003_loginByRegisterStudent() Test =====
+2025-04-22 17:25:52 - INFO  - (StudentRegistration.java:219) => Entered Password to login registered student
+2025-04-22 17:25:52 - INFO  - (StudentRegistration.java:224) => Cliked on login button
+2025-04-22 17:25:52 - INFO  - (VerifyStudentRegistation.java:69) => Registered student login successfully
+2025-04-22 17:25:52 - INFO  - (TestBase.java:251) => ===== Ending TC_003_loginByRegisterStudent() Test =====
+
+2025-04-22 17:25:52 - INFO  - (TestBase.java:218) => ===== Starting TC_004_verifyStudentNameAfterLogin() Test =====
+2025-04-22 17:26:00 - INFO  - (VerifyStudentRegistation.java:88) => Student Name is displayed on student profile page
+2025-04-22 17:26:00 - INFO  - (TestBase.java:251) => ===== Ending TC_004_verifyStudentNameAfterLogin() Test =====
+
+2025-04-22 17:54:55 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 135.0.7049.96
+2025-04-22 17:54:55 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-04-22 17:55:00 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8422/Login.aspx?ekey=C292B2CF-DCD8-4ED6-9F7C-B1EB62A7D17D
+
+2025-04-22 17:55:00 - INFO  - (TestBase.java:218) => ===== Starting TC_001_verifyStudentRegistration() Test =====
+2025-04-22 17:55:01 - INFO  - (StudentRegistration.java:89) => Cliked on register button from login page
+2025-04-22 17:55:02 - INFO  - (StudentRegistration.java:95) => Title selected
+2025-04-22 17:55:02 - INFO  - (StudentRegistration.java:100) => Entered student name
+2025-04-22 17:55:02 - INFO  - (StudentRegistration.java:105) => Entered student middle name
+2025-04-22 17:55:03 - INFO  - (StudentRegistration.java:111) => Gender selected
+2025-04-22 17:55:03 - INFO  - (StudentRegistration.java:116) => Entered student date of birth
+2025-04-22 17:55:03 - INFO  - (StudentRegistration.java:122) => Marital status selected
+2025-04-22 17:55:03 - INFO  - (StudentRegistration.java:129) => Country Of Citizenship selected
+2025-04-22 17:55:04 - INFO  - (StudentRegistration.java:136) => Country Of Current Residence selected
+2025-04-22 17:55:04 - INFO  - (StudentRegistration.java:141) => Entered student email address
+2025-04-22 17:55:04 - INFO  - (StudentRegistration.java:148) => Mobile country selected
+2025-04-22 17:55:04 - INFO  - (StudentRegistration.java:153) => Entered student mobile number
+2025-04-22 17:55:05 - INFO  - (StudentRegistration.java:159) => Secret Question selected
+2025-04-22 17:55:05 - INFO  - (StudentRegistration.java:164) => Secret Answer entered
+2025-04-22 17:55:05 - INFO  - (StudentRegistration.java:169) => Entered Password
+2025-04-22 17:55:05 - INFO  - (StudentRegistration.java:174) => Entered Confirm Password
+2025-04-22 17:55:05 - INFO  - (StudentRegistration.java:179) => Cliked on done button after entered student details
+2025-04-22 17:55:05 - INFO  - (VerifyStudentRegistation.java:36) => Student Register successgully
+2025-04-22 17:55:05 - INFO  - (TestBase.java:251) => ===== Ending TC_001_verifyStudentRegistration() Test =====
+
+2025-04-22 17:55:05 - INFO  - (TestBase.java:218) => ===== Starting TC_002_verifyStudentEmail() Test =====
+2025-04-22 17:55:21 - INFO  - (VerifyStudentRegistation.java:53) => Student email successfully verified
+2025-04-22 17:55:21 - INFO  - (TestBase.java:251) => ===== Ending TC_002_verifyStudentEmail() Test =====
+
+2025-04-22 17:55:21 - INFO  - (TestBase.java:218) => ===== Starting TC_003_loginByRegisterStudent() Test =====
+2025-04-22 17:55:23 - INFO  - (StudentRegistration.java:219) => Entered Password to login registered student
+2025-04-22 17:55:23 - INFO  - (StudentRegistration.java:224) => Cliked on login button
+2025-04-22 17:55:23 - INFO  - (VerifyStudentRegistation.java:69) => Registered student login successfully
+2025-04-22 17:55:23 - INFO  - (TestBase.java:251) => ===== Ending TC_003_loginByRegisterStudent() Test =====
+
+2025-04-22 17:55:23 - INFO  - (TestBase.java:218) => ===== Starting TC_004_verifyStudentNameAfterLogin() Test =====
+2025-04-22 17:55:29 - INFO  - (VerifyStudentRegistation.java:88) => Student Name is displayed on student profile page
+2025-04-22 17:55:29 - INFO  - (TestBase.java:251) => ===== Ending TC_004_verifyStudentNameAfterLogin() Test =====
+
+2025-04-23 18:10:58 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 135.0.7049.96
+2025-04-23 18:10:58 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-04-23 18:11:04 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8422/Login.aspx?ekey=C292B2CF-DCD8-4ED6-9F7C-B1EB62A7D17D
+
+2025-04-23 18:11:04 - INFO  - (TestBase.java:218) => ===== Starting TC_001_verifyStudentRegistration() Test =====
+2025-04-23 18:11:04 - INFO  - (StudentRegistration.java:89) => Cliked on register button from login page
+2025-04-23 18:11:05 - INFO  - (StudentRegistration.java:95) => Title selected
+2025-04-23 18:11:05 - INFO  - (StudentRegistration.java:100) => Entered student name
+2025-04-23 18:11:05 - INFO  - (StudentRegistration.java:105) => Entered student middle name
+2025-04-23 18:11:06 - INFO  - (StudentRegistration.java:111) => Gender selected
+2025-04-23 18:11:06 - INFO  - (StudentRegistration.java:116) => Entered student date of birth
+2025-04-23 18:11:06 - INFO  - (StudentRegistration.java:122) => Marital status selected
+2025-04-23 18:11:06 - INFO  - (StudentRegistration.java:129) => Country Of Citizenship selected
+2025-04-23 18:11:07 - INFO  - (StudentRegistration.java:136) => Country Of Current Residence selected
+2025-04-23 18:11:07 - INFO  - (StudentRegistration.java:141) => Entered student email address
+2025-04-23 18:11:07 - INFO  - (StudentRegistration.java:148) => Mobile country selected
+2025-04-23 18:11:08 - INFO  - (StudentRegistration.java:153) => Entered student mobile number
+2025-04-23 18:11:08 - INFO  - (StudentRegistration.java:159) => Secret Question selected
+2025-04-23 18:11:08 - INFO  - (StudentRegistration.java:164) => Secret Answer entered
+2025-04-23 18:11:08 - INFO  - (StudentRegistration.java:169) => Entered Password
+2025-04-23 18:11:08 - INFO  - (StudentRegistration.java:174) => Entered Confirm Password
+2025-04-23 18:11:08 - INFO  - (StudentRegistration.java:179) => Cliked on done button after entered student details
+2025-04-23 18:11:08 - INFO  - (VerifyStudentRegistation.java:36) => Student Register successgully
+2025-04-23 18:11:08 - INFO  - (TestBase.java:251) => ===== Ending TC_001_verifyStudentRegistration() Test =====
+
+2025-04-23 18:11:08 - INFO  - (TestBase.java:218) => ===== Starting TC_002_verifyStudentEmail() Test =====
+2025-04-23 18:11:24 - INFO  - (VerifyStudentRegistation.java:53) => Student email successfully verified
+2025-04-23 18:11:24 - INFO  - (TestBase.java:251) => ===== Ending TC_002_verifyStudentEmail() Test =====
+
+2025-04-23 18:11:24 - INFO  - (TestBase.java:218) => ===== Starting TC_003_loginByRegisterStudent() Test =====
+2025-04-23 18:11:26 - INFO  - (StudentRegistration.java:219) => Entered Password to login registered student
+2025-04-23 18:11:27 - INFO  - (StudentRegistration.java:224) => Cliked on login button
+2025-04-23 18:11:27 - INFO  - (VerifyStudentRegistation.java:69) => Registered student login successfully
+2025-04-23 18:11:27 - INFO  - (TestBase.java:251) => ===== Ending TC_003_loginByRegisterStudent() Test =====
+
+2025-04-23 18:11:27 - INFO  - (TestBase.java:218) => ===== Starting TC_004_verifyStudentNameAfterLogin() Test =====
+2025-04-23 18:11:34 - INFO  - (VerifyStudentRegistation.java:88) => Student Name is displayed on student profile page
+2025-04-23 18:11:34 - INFO  - (TestBase.java:251) => ===== Ending TC_004_verifyStudentNameAfterLogin() Test =====
+
