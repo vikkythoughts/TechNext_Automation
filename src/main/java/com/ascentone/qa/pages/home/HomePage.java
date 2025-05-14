@@ -24,5 +24,10 @@ public class HomePage extends TestBase{
 	public static void goToMyAgentPage() throws InterruptedException {
 		Utilities.navigateToURL(baseURL() + pageURL(2));
 	}
+	
+	@Step("Navigate to Admission Application page")
+	public static void goToAdmissionApplicationPage() throws InterruptedException {
+		Utilities.navigateToURL(pageURL(3));
+	}
 
 }

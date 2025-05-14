@@ -244,3 +244,1065 @@
 2025-04-23 18:11:34 - INFO  - (VerifyStudentRegistation.java:88) => Student Name is displayed on student profile page
 2025-04-23 18:11:34 - INFO  - (TestBase.java:251) => ===== Ending TC_004_verifyStudentNameAfterLogin() Test =====
 
+2025-05-12 10:14:13 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-12 10:14:13 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-12 10:24:44 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-12 10:24:44 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-12 10:24:56 - INFO  - (TestBase.java:156) => Entered URL: https://stage.ascentone.com/login.aspx
+
+2025-05-12 10:24:56 - INFO  - (TestBase.java:218) => ===== Starting goToAdmissionApplicationPage() Test =====
+2025-05-12 10:24:57 - INFO  - (Utilities.java:245) => Navigate to URL: https://stage.ascentone.com/login.aspxhttps://stage.ascentone.com/AgentApps/ManageApplications.aspx?i=30&pn=Admissions&j=1200&prn=Student%20Application
+2025-05-12 10:24:57 - INFO  - (CreateNewStudent.java:61) => Reached on Admission application page
+2025-05-12 10:24:57 - INFO  - (TestBase.java:251) => ===== Ending goToAdmissionApplicationPage() Test =====
+
+2025-05-12 11:04:10 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-12 11:04:10 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-12 11:04:16 - INFO  - (TestBase.java:156) => Entered URL: https://stage.ascentone.com/login.aspx
+
+2025-05-12 11:04:16 - INFO  - (TestBase.java:218) => ===== Starting goToAdmissionApplicationPage() Test =====
+2025-05-12 11:04:17 - INFO  - (Utilities.java:245) => Navigate to URL: https://stage.ascentone.com/login.aspxhttps://stage.ascentone.com/AgentApps/ManageApplications.aspx?i=30&pn=Admissions&j=1200&prn=Student%20Application
+2025-05-12 11:04:17 - INFO  - (CreateNewStudent.java:61) => Reached on Admission application page
+2025-05-12 11:04:17 - INFO  - (TestBase.java:251) => ===== Ending goToAdmissionApplicationPage() Test =====
+
+2025-05-12 11:04:17 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-12 11:06:30 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-12 11:06:30 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-12 11:06:38 - INFO  - (TestBase.java:156) => Entered URL: https://stage.ascentone.com/login.aspx
+
+2025-05-12 11:06:38 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-12 11:19:40 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-12 11:19:40 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-12 11:19:52 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-12 11:19:52 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-12 11:20:57 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-12 11:20:57 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-12 11:21:24 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-12 11:21:24 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-12 11:21:34 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-12 11:21:34 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-12 11:22:00 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\loginIntoWebApp_20250512112200.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\loginIntoWebApp_20250512112200.png' height='400' width='700'/> </a>
+2025-05-12 11:22:00 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-12 11:22:00 - INFO  - (TestBase.java:218) => ===== Starting goToAdmissionApplicationPage() Test =====
+2025-05-12 11:22:00 - INFO  - (Utilities.java:245) => Navigate to URL: http://oca-azure-test:8401/LogIn.aspxhttp://oca-azure-test:8401/Default.aspx?height=860&width=1703&info=1
+2025-05-12 11:22:00 - INFO  - (CreateNewStudent.java:61) => Reached on Admission application page
+2025-05-12 11:22:00 - INFO  - (TestBase.java:251) => ===== Ending goToAdmissionApplicationPage() Test =====
+
+2025-05-12 11:29:30 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-12 11:29:30 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-12 11:29:41 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-12 11:29:41 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-12 11:30:07 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-12 11:30:07 - INFO  - (TestBase.java:218) => ===== Starting goToAdmissionApplicationPage() Test =====
+2025-05-12 11:30:08 - INFO  - (Utilities.java:245) => Navigate to URL: http://oca-azure-test:8401/AgentApps/ManageApplications.aspx?i=30&pn=Easy%20Application&j=1200&prn=Student%20Application
+2025-05-12 11:30:08 - INFO  - (CreateNewStudent.java:61) => Reached on Admission application page
+2025-05-12 11:30:08 - INFO  - (TestBase.java:251) => ===== Ending goToAdmissionApplicationPage() Test =====
+
+2025-05-13 11:23:35 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-13 11:23:35 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-13 11:44:24 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-13 11:44:24 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-13 11:45:08 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-13 11:45:08 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-13 11:45:20 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-13 11:45:20 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-13 11:46:06 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\loginIntoWebApp_20250513114606.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\loginIntoWebApp_20250513114606.png' height='400' width='700'/> </a>
+2025-05-13 11:46:06 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-13 11:46:06 - INFO  - (TestBase.java:218) => ===== Starting goToAdmissionApplicationPage() Test =====
+2025-05-13 11:46:12 - INFO  - (Utilities.java:245) => Navigate to URL: http://oca-azure-test:8401/AgentApps/ManageApplications.aspx?i=30&pn=Easy%20Application&j=1200&prn=Student%20Application
+2025-05-13 11:46:12 - INFO  - (CreateNewStudent.java:138) => Reached on Admission application page
+2025-05-13 11:46:12 - INFO  - (TestBase.java:251) => ===== Ending goToAdmissionApplicationPage() Test =====
+
+2025-05-13 11:46:12 - INFO  - (TestBase.java:218) => ===== Starting createNewStudent() Test =====
+2025-05-13 11:46:21 - INFO  - (CreateNewStudent.java:143) => Clicked on new student button
+2025-05-13 11:46:23 - INFO  - (CreateNewStudent.java:149) => Title selected
+2025-05-13 11:46:23 - INFO  - (CreateNewStudent.java:154) => Entered student name
+2025-05-13 11:46:24 - INFO  - (CreateNewStudent.java:159) => Entered student middle name
+2025-05-13 11:46:24 - INFO  - (CreateNewStudent.java:165) => Gender selected
+2025-05-13 11:46:25 - INFO  - (CreateNewStudent.java:170) => Entered student date of birth
+2025-05-13 11:46:25 - INFO  - (CreateNewStudent.java:176) => Marital status selected
+2025-05-13 11:46:37 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\createNewStudent_20250513114637.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\createNewStudent_20250513114637.png' height='400' width='700'/> </a>
+2025-05-13 11:46:37 - INFO  - (TestBase.java:251) => ===== Ending createNewStudent() Test =====
+
+2025-05-13 11:46:37 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedNewStudentName() Test =====
+2025-05-13 11:46:47 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyCreatedNewStudentName_20250513114647.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyCreatedNewStudentName_20250513114647.png' height='400' width='700'/> </a>
+2025-05-13 11:46:47 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedNewStudentName() Test =====
+
+2025-05-13 11:46:47 - INFO  - (TestBase.java:218) => ===== Starting verifyAddFamilyMember() Test =====
+2025-05-13 11:48:01 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddFamilyMember_20250513114801.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddFamilyMember_20250513114801.png' height='400' width='700'/> </a>
+2025-05-13 11:48:01 - INFO  - (TestBase.java:251) => ===== Ending verifyAddFamilyMember() Test =====
+
+2025-05-13 11:48:01 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedFamMemberName() Test =====
+2025-05-13 11:48:11 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyCreatedFamMemberName_20250513114811.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyCreatedFamMemberName_20250513114811.png' height='400' width='700'/> </a>
+2025-05-13 11:48:11 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedFamMemberName() Test =====
+
+2025-05-13 14:24:20 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-13 14:24:20 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-13 14:24:35 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-13 14:24:35 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-13 14:25:21 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\loginIntoWebApp_20250513022521.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\loginIntoWebApp_20250513022521.png' height='400' width='700'/> </a>
+2025-05-13 14:25:21 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-13 14:25:21 - INFO  - (TestBase.java:218) => ===== Starting goToAdmissionApplicationPage() Test =====
+2025-05-13 14:25:44 - INFO  - (Utilities.java:245) => Navigate to URL: http://oca-azure-test:8401/AgentApps/ManageApplications.aspx?i=30&pn=Easy%20Application&j=1200&prn=Student%20Application
+2025-05-13 14:25:44 - INFO  - (CreateNewStudent.java:138) => Reached on Admission application page
+2025-05-13 14:25:44 - INFO  - (TestBase.java:251) => ===== Ending goToAdmissionApplicationPage() Test =====
+
+2025-05-13 14:25:44 - INFO  - (TestBase.java:218) => ===== Starting createNewStudent() Test =====
+2025-05-13 14:26:02 - INFO  - (CreateNewStudent.java:143) => Clicked on new student button
+2025-05-13 14:26:10 - INFO  - (CreateNewStudent.java:149) => Title selected
+2025-05-13 14:26:10 - INFO  - (CreateNewStudent.java:154) => Entered student name
+2025-05-13 14:26:10 - INFO  - (CreateNewStudent.java:159) => Entered student middle name
+2025-05-13 14:26:10 - INFO  - (CreateNewStudent.java:165) => Gender selected
+2025-05-13 14:26:10 - INFO  - (CreateNewStudent.java:170) => Entered student date of birth
+2025-05-13 14:26:10 - INFO  - (CreateNewStudent.java:176) => Marital status selected
+2025-05-13 14:26:21 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\createNewStudent_20250513022621.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\createNewStudent_20250513022621.png' height='400' width='700'/> </a>
+2025-05-13 14:26:21 - INFO  - (TestBase.java:251) => ===== Ending createNewStudent() Test =====
+
+2025-05-13 14:26:21 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedNewStudentName() Test =====
+2025-05-13 14:29:49 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-13 14:29:49 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-13 14:30:00 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-13 14:30:00 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-13 14:30:33 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\loginIntoWebApp_20250513023033.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\loginIntoWebApp_20250513023033.png' height='400' width='700'/> </a>
+2025-05-13 14:30:33 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-13 14:30:33 - INFO  - (TestBase.java:218) => ===== Starting goToAdmissionApplicationPage() Test =====
+2025-05-13 14:30:35 - INFO  - (Utilities.java:245) => Navigate to URL: http://oca-azure-test:8401/AgentApps/ManageApplications.aspx?i=30&pn=Easy%20Application&j=1200&prn=Student%20Application
+2025-05-13 14:30:35 - INFO  - (CreateNewStudent.java:138) => Reached on Admission application page
+2025-05-13 14:30:35 - INFO  - (TestBase.java:251) => ===== Ending goToAdmissionApplicationPage() Test =====
+
+2025-05-13 14:30:35 - INFO  - (TestBase.java:218) => ===== Starting createNewStudent() Test =====
+2025-05-13 14:30:40 - INFO  - (CreateNewStudent.java:143) => Clicked on new student button
+2025-05-13 14:30:41 - INFO  - (CreateNewStudent.java:149) => Title selected
+2025-05-13 14:30:41 - INFO  - (CreateNewStudent.java:154) => Entered student name
+2025-05-13 14:30:41 - INFO  - (CreateNewStudent.java:159) => Entered student middle name
+2025-05-13 14:30:41 - INFO  - (CreateNewStudent.java:165) => Gender selected
+2025-05-13 14:30:42 - INFO  - (CreateNewStudent.java:170) => Entered student date of birth
+2025-05-13 14:30:42 - INFO  - (CreateNewStudent.java:176) => Marital status selected
+2025-05-13 14:30:42 - INFO  - (CreateNewStudent.java:183) => Country Of Citizenship selected
+2025-05-13 14:30:42 - INFO  - (CreateNewStudent.java:190) => Country Of Current Residence selected
+2025-05-13 14:30:43 - INFO  - (CreateNewStudent.java:197) => Mobile country selected
+2025-05-13 14:30:43 - INFO  - (CreateNewStudent.java:202) => Entered student mobile number
+2025-05-13 14:30:43 - INFO  - (CreateNewStudent.java:207) => Entered student email address
+2025-05-13 14:31:56 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\createNewStudent_20250513023156.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\createNewStudent_20250513023156.png' height='400' width='700'/> </a>
+2025-05-13 14:31:56 - INFO  - (TestBase.java:251) => ===== Ending createNewStudent() Test =====
+
+2025-05-13 14:31:56 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedNewStudentName() Test =====
+2025-05-13 14:32:06 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyCreatedNewStudentName_20250513023206.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyCreatedNewStudentName_20250513023206.png' height='400' width='700'/> </a>
+2025-05-13 14:32:06 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedNewStudentName() Test =====
+
+2025-05-13 14:32:06 - INFO  - (TestBase.java:218) => ===== Starting verifyAddFamilyMember() Test =====
+2025-05-13 14:43:11 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-13 14:43:11 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-13 14:43:25 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-13 14:43:25 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-13 14:44:12 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\loginIntoWebApp_20250513024412.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\loginIntoWebApp_20250513024412.png' height='400' width='700'/> </a>
+2025-05-13 14:44:12 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-13 14:44:12 - INFO  - (TestBase.java:218) => ===== Starting goToAdmissionApplicationPage() Test =====
+2025-05-13 14:44:19 - INFO  - (Utilities.java:245) => Navigate to URL: http://oca-azure-test:8401/AgentApps/ManageApplications.aspx?i=30&pn=Easy%20Application&j=1200&prn=Student%20Application
+2025-05-13 14:44:19 - INFO  - (CreateNewStudent.java:138) => Reached on Admission application page
+2025-05-13 14:44:19 - INFO  - (TestBase.java:251) => ===== Ending goToAdmissionApplicationPage() Test =====
+
+2025-05-13 14:44:19 - INFO  - (TestBase.java:218) => ===== Starting createNewStudent() Test =====
+2025-05-13 14:44:24 - INFO  - (CreateNewStudent.java:143) => Clicked on new student button
+2025-05-13 14:44:25 - INFO  - (CreateNewStudent.java:149) => Title selected
+2025-05-13 14:44:25 - INFO  - (CreateNewStudent.java:154) => Entered student name
+2025-05-13 14:44:26 - INFO  - (CreateNewStudent.java:159) => Entered student middle name
+2025-05-13 14:44:26 - INFO  - (CreateNewStudent.java:165) => Gender selected
+2025-05-13 14:44:26 - INFO  - (CreateNewStudent.java:170) => Entered student date of birth
+2025-05-13 14:44:26 - INFO  - (CreateNewStudent.java:176) => Marital status selected
+2025-05-13 14:44:26 - INFO  - (CreateNewStudent.java:183) => Country Of Citizenship selected
+2025-05-13 14:44:27 - INFO  - (CreateNewStudent.java:190) => Country Of Current Residence selected
+2025-05-13 14:44:27 - INFO  - (CreateNewStudent.java:197) => Mobile country selected
+2025-05-13 14:44:27 - INFO  - (CreateNewStudent.java:202) => Entered student mobile number
+2025-05-13 14:44:27 - INFO  - (CreateNewStudent.java:207) => Entered student email address
+2025-05-13 14:44:27 - INFO  - (CreateNewStudent.java:212) => Cliked on done button after entered student details
+2025-05-13 14:44:27 - INFO  - (VerifyCreateNewStudent.java:65) => New Student created successgully
+2025-05-13 14:44:27 - INFO  - (TestBase.java:251) => ===== Ending createNewStudent() Test =====
+
+2025-05-13 14:44:27 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedNewStudentName() Test =====
+2025-05-13 14:44:53 - INFO  - (VerifyCreateNewStudent.java:80) => Student Name is displayed on student profile page
+2025-05-13 14:44:53 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedNewStudentName() Test =====
+
+2025-05-13 14:44:53 - INFO  - (TestBase.java:218) => ===== Starting verifyAddFamilyMember() Test =====
+2025-05-13 14:46:06 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddFamilyMember_20250513024606.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddFamilyMember_20250513024606.png' height='400' width='700'/> </a>
+2025-05-13 14:46:06 - INFO  - (TestBase.java:251) => ===== Ending verifyAddFamilyMember() Test =====
+
+2025-05-13 14:46:06 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedFamMemberName() Test =====
+2025-05-13 14:46:06 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyCreatedFamMemberName_20250513024606.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyCreatedFamMemberName_20250513024606.png' height='400' width='700'/> </a>
+2025-05-13 14:46:06 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedFamMemberName() Test =====
+
+2025-05-13 14:59:29 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-13 14:59:29 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-13 14:59:40 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-13 14:59:40 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-13 15:00:04 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-13 15:00:04 - INFO  - (TestBase.java:218) => ===== Starting goToAdmissionApplicationPage() Test =====
+2025-05-13 15:00:05 - INFO  - (Utilities.java:245) => Navigate to URL: http://oca-azure-test:8401/AgentApps/ManageApplications.aspx?i=30&pn=Easy%20Application&j=1200&prn=Student%20Application
+2025-05-13 15:00:05 - INFO  - (CreateNewStudent.java:138) => Reached on Admission application page
+2025-05-13 15:00:05 - INFO  - (TestBase.java:251) => ===== Ending goToAdmissionApplicationPage() Test =====
+
+2025-05-13 15:00:05 - INFO  - (TestBase.java:218) => ===== Starting createNewStudent() Test =====
+2025-05-13 15:00:10 - INFO  - (CreateNewStudent.java:143) => Clicked on new student button
+2025-05-13 15:00:12 - INFO  - (CreateNewStudent.java:149) => Title selected
+2025-05-13 15:00:12 - INFO  - (CreateNewStudent.java:154) => Entered student name
+2025-05-13 15:00:12 - INFO  - (CreateNewStudent.java:159) => Entered student middle name
+2025-05-13 15:00:12 - INFO  - (CreateNewStudent.java:165) => Gender selected
+2025-05-13 15:00:12 - INFO  - (CreateNewStudent.java:170) => Entered student date of birth
+2025-05-13 15:00:12 - INFO  - (CreateNewStudent.java:176) => Marital status selected
+2025-05-13 15:00:13 - INFO  - (CreateNewStudent.java:183) => Country Of Citizenship selected
+2025-05-13 15:00:13 - INFO  - (CreateNewStudent.java:190) => Country Of Current Residence selected
+2025-05-13 15:00:13 - INFO  - (CreateNewStudent.java:197) => Mobile country selected
+2025-05-13 15:00:13 - INFO  - (CreateNewStudent.java:202) => Entered student mobile number
+2025-05-13 15:00:13 - INFO  - (CreateNewStudent.java:207) => Entered student email address
+2025-05-13 15:00:14 - INFO  - (CreateNewStudent.java:212) => Cliked on done button after entered student details
+2025-05-13 15:00:14 - INFO  - (VerifyCreateNewStudent.java:65) => New Student created successgully
+2025-05-13 15:00:14 - INFO  - (TestBase.java:251) => ===== Ending createNewStudent() Test =====
+
+2025-05-13 15:00:14 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedNewStudentName() Test =====
+2025-05-13 15:00:31 - INFO  - (VerifyCreateNewStudent.java:80) => Student Name is displayed on student profile page
+2025-05-13 15:00:31 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedNewStudentName() Test =====
+
+2025-05-13 15:00:31 - INFO  - (TestBase.java:218) => ===== Starting verifyAddFamilyMember() Test =====
+2025-05-13 15:01:44 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddFamilyMember_20250513030144.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddFamilyMember_20250513030144.png' height='400' width='700'/> </a>
+2025-05-13 15:01:44 - INFO  - (TestBase.java:251) => ===== Ending verifyAddFamilyMember() Test =====
+
+2025-05-13 15:01:44 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedFamMemberName() Test =====
+2025-05-13 15:01:44 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyCreatedFamMemberName_20250513030144.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyCreatedFamMemberName_20250513030144.png' height='400' width='700'/> </a>
+2025-05-13 15:01:44 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedFamMemberName() Test =====
+
+2025-05-13 15:07:42 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-13 15:07:42 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-13 15:08:15 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-13 15:08:15 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-13 15:08:43 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\loginIntoWebApp_20250513030843.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\loginIntoWebApp_20250513030843.png' height='400' width='700'/> </a>
+2025-05-13 15:08:44 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-13 15:08:44 - INFO  - (TestBase.java:218) => ===== Starting goToAdmissionApplicationPage() Test =====
+2025-05-13 15:08:51 - INFO  - (Utilities.java:245) => Navigate to URL: http://oca-azure-test:8401/AgentApps/ManageApplications.aspx?i=30&pn=Easy%20Application&j=1200&prn=Student%20Application
+2025-05-13 15:08:51 - INFO  - (CreateNewStudent.java:138) => Reached on Admission application page
+2025-05-13 15:08:51 - INFO  - (TestBase.java:251) => ===== Ending goToAdmissionApplicationPage() Test =====
+
+2025-05-13 15:08:51 - INFO  - (TestBase.java:218) => ===== Starting createNewStudent() Test =====
+2025-05-13 15:08:56 - INFO  - (CreateNewStudent.java:143) => Clicked on new student button
+2025-05-13 15:08:58 - INFO  - (CreateNewStudent.java:149) => Title selected
+2025-05-13 15:08:58 - INFO  - (CreateNewStudent.java:154) => Entered student name
+2025-05-13 15:08:58 - INFO  - (CreateNewStudent.java:159) => Entered student middle name
+2025-05-13 15:08:58 - INFO  - (CreateNewStudent.java:165) => Gender selected
+2025-05-13 15:08:58 - INFO  - (CreateNewStudent.java:170) => Entered student date of birth
+2025-05-13 15:08:58 - INFO  - (CreateNewStudent.java:176) => Marital status selected
+2025-05-13 15:08:59 - INFO  - (CreateNewStudent.java:183) => Country Of Citizenship selected
+2025-05-13 15:08:59 - INFO  - (CreateNewStudent.java:190) => Country Of Current Residence selected
+2025-05-13 15:08:59 - INFO  - (CreateNewStudent.java:197) => Mobile country selected
+2025-05-13 15:08:59 - INFO  - (CreateNewStudent.java:202) => Entered student mobile number
+2025-05-13 15:09:00 - INFO  - (CreateNewStudent.java:207) => Entered student email address
+2025-05-13 15:09:00 - INFO  - (CreateNewStudent.java:212) => Cliked on done button after entered student details
+2025-05-13 15:09:00 - INFO  - (VerifyCreateNewStudent.java:65) => New Student created successgully
+2025-05-13 15:09:00 - INFO  - (TestBase.java:251) => ===== Ending createNewStudent() Test =====
+
+2025-05-13 15:09:00 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedNewStudentName() Test =====
+2025-05-13 15:09:23 - INFO  - (VerifyCreateNewStudent.java:80) => Student Name is displayed on student profile page
+2025-05-13 15:09:23 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedNewStudentName() Test =====
+
+2025-05-13 15:09:23 - INFO  - (TestBase.java:218) => ===== Starting verifyAddFamilyMember() Test =====
+2025-05-13 15:09:25 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddFamilyMember_20250513030925.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddFamilyMember_20250513030925.png' height='400' width='700'/> </a>
+2025-05-13 15:09:25 - INFO  - (TestBase.java:251) => ===== Ending verifyAddFamilyMember() Test =====
+
+2025-05-13 15:09:25 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedFamMemberName() Test =====
+2025-05-13 15:09:25 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyCreatedFamMemberName_20250513030925.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyCreatedFamMemberName_20250513030925.png' height='400' width='700'/> </a>
+2025-05-13 15:09:25 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedFamMemberName() Test =====
+
+2025-05-13 15:13:21 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-13 15:13:21 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-13 15:13:42 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-13 15:13:42 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-13 15:14:10 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\loginIntoWebApp_20250513031410.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\loginIntoWebApp_20250513031410.png' height='400' width='700'/> </a>
+2025-05-13 15:14:10 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-13 15:14:10 - INFO  - (TestBase.java:218) => ===== Starting goToAdmissionApplicationPage() Test =====
+2025-05-13 15:14:14 - INFO  - (Utilities.java:245) => Navigate to URL: http://oca-azure-test:8401/AgentApps/ManageApplications.aspx?i=30&pn=Easy%20Application&j=1200&prn=Student%20Application
+2025-05-13 15:14:14 - INFO  - (CreateNewStudent.java:138) => Reached on Admission application page
+2025-05-13 15:14:14 - INFO  - (TestBase.java:251) => ===== Ending goToAdmissionApplicationPage() Test =====
+
+2025-05-13 15:14:14 - INFO  - (TestBase.java:218) => ===== Starting createNewStudent() Test =====
+2025-05-13 15:14:19 - INFO  - (CreateNewStudent.java:143) => Clicked on new student button
+2025-05-13 15:14:20 - INFO  - (CreateNewStudent.java:149) => Title selected
+2025-05-13 15:14:20 - INFO  - (CreateNewStudent.java:154) => Entered student name
+2025-05-13 15:14:20 - INFO  - (CreateNewStudent.java:159) => Entered student middle name
+2025-05-13 15:14:21 - INFO  - (CreateNewStudent.java:165) => Gender selected
+2025-05-13 15:14:21 - INFO  - (CreateNewStudent.java:170) => Entered student date of birth
+2025-05-13 15:14:21 - INFO  - (CreateNewStudent.java:176) => Marital status selected
+2025-05-13 15:14:21 - INFO  - (CreateNewStudent.java:183) => Country Of Citizenship selected
+2025-05-13 15:14:21 - INFO  - (CreateNewStudent.java:190) => Country Of Current Residence selected
+2025-05-13 15:14:22 - INFO  - (CreateNewStudent.java:197) => Mobile country selected
+2025-05-13 15:14:22 - INFO  - (CreateNewStudent.java:202) => Entered student mobile number
+2025-05-13 15:14:22 - INFO  - (CreateNewStudent.java:207) => Entered student email address
+2025-05-13 15:14:22 - INFO  - (CreateNewStudent.java:212) => Cliked on done button after entered student details
+2025-05-13 15:14:22 - INFO  - (VerifyCreateNewStudent.java:65) => New Student created successgully
+2025-05-13 15:14:22 - INFO  - (TestBase.java:251) => ===== Ending createNewStudent() Test =====
+
+2025-05-13 15:14:22 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedNewStudentName() Test =====
+2025-05-13 15:14:45 - INFO  - (VerifyCreateNewStudent.java:80) => Student Name is displayed on student profile page
+2025-05-13 15:14:45 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedNewStudentName() Test =====
+
+2025-05-13 15:14:45 - INFO  - (TestBase.java:218) => ===== Starting verifyAddFamilyMember() Test =====
+2025-05-13 15:14:45 - INFO  - (CreateNewStudent.java:239) => Clicked on Add Family member button
+2025-05-13 15:14:46 - INFO  - (CreateNewStudent.java:246) => Family Title selected
+2025-05-13 15:14:47 - INFO  - (CreateNewStudent.java:260) => Family Gender selected
+2025-05-13 15:14:47 - INFO  - (CreateNewStudent.java:265) => Entered Family Member date of birth
+2025-05-13 15:14:47 - INFO  - (CreateNewStudent.java:271) => Family Member Marital status selected
+2025-05-13 15:14:47 - INFO  - (CreateNewStudent.java:276) => Entered Family Member Marriage date
+2025-05-13 15:14:47 - INFO  - (CreateNewStudent.java:282) => Family Member relation selected
+2025-05-13 15:14:47 - INFO  - (CreateNewStudent.java:288) => Family Member nationality selected
+2025-05-13 15:14:47 - INFO  - (CreateNewStudent.java:293) => Clicked on Done button for Add Family Member
+2025-05-13 15:14:47 - INFO  - (VerifyCreateNewStudent.java:99) => New Student created successgully
+2025-05-13 15:14:47 - INFO  - (TestBase.java:251) => ===== Ending verifyAddFamilyMember() Test =====
+
+2025-05-13 15:14:47 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedFamMemberName() Test =====
+2025-05-13 15:14:48 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyCreatedFamMemberName_20250513031448.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyCreatedFamMemberName_20250513031448.png' height='400' width='700'/> </a>
+2025-05-13 15:14:48 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedFamMemberName() Test =====
+
+2025-05-13 15:22:06 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-13 15:22:06 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-13 15:22:16 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-13 15:22:16 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-13 15:22:40 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-13 15:22:40 - INFO  - (TestBase.java:218) => ===== Starting goToAdmissionApplicationPage() Test =====
+2025-05-13 15:22:41 - INFO  - (Utilities.java:245) => Navigate to URL: http://oca-azure-test:8401/AgentApps/ManageApplications.aspx?i=30&pn=Easy%20Application&j=1200&prn=Student%20Application
+2025-05-13 15:22:41 - INFO  - (CreateNewStudent.java:138) => Reached on Admission application page
+2025-05-13 15:22:41 - INFO  - (TestBase.java:251) => ===== Ending goToAdmissionApplicationPage() Test =====
+
+2025-05-13 15:22:41 - INFO  - (TestBase.java:218) => ===== Starting createNewStudent() Test =====
+2025-05-13 15:22:46 - INFO  - (CreateNewStudent.java:143) => Clicked on new student button
+2025-05-13 15:22:48 - INFO  - (CreateNewStudent.java:149) => Title selected
+2025-05-13 15:22:48 - INFO  - (CreateNewStudent.java:154) => Entered student name
+2025-05-13 15:22:48 - INFO  - (CreateNewStudent.java:159) => Entered student middle name
+2025-05-13 15:22:48 - INFO  - (CreateNewStudent.java:165) => Gender selected
+2025-05-13 15:22:48 - INFO  - (CreateNewStudent.java:170) => Entered student date of birth
+2025-05-13 15:22:48 - INFO  - (CreateNewStudent.java:176) => Marital status selected
+2025-05-13 15:22:49 - INFO  - (CreateNewStudent.java:183) => Country Of Citizenship selected
+2025-05-13 15:22:49 - INFO  - (CreateNewStudent.java:190) => Country Of Current Residence selected
+2025-05-13 15:22:49 - INFO  - (CreateNewStudent.java:197) => Mobile country selected
+2025-05-13 15:22:49 - INFO  - (CreateNewStudent.java:202) => Entered student mobile number
+2025-05-13 15:22:50 - INFO  - (CreateNewStudent.java:207) => Entered student email address
+2025-05-13 15:22:50 - INFO  - (CreateNewStudent.java:212) => Cliked on done button after entered student details
+2025-05-13 15:22:50 - INFO  - (VerifyCreateNewStudent.java:65) => New Student created successgully
+2025-05-13 15:22:50 - INFO  - (TestBase.java:251) => ===== Ending createNewStudent() Test =====
+
+2025-05-13 15:22:50 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedNewStudentName() Test =====
+2025-05-13 15:23:03 - INFO  - (VerifyCreateNewStudent.java:80) => Student Name is displayed on student profile page
+2025-05-13 15:23:03 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedNewStudentName() Test =====
+
+2025-05-13 15:23:03 - INFO  - (TestBase.java:218) => ===== Starting verifyAddFamilyMember() Test =====
+2025-05-13 15:23:03 - INFO  - (CreateNewStudent.java:239) => Clicked on Add Family member button
+2025-05-13 15:23:04 - INFO  - (CreateNewStudent.java:246) => Family Title selected
+2025-05-13 15:23:05 - INFO  - (CreateNewStudent.java:260) => Family Gender selected
+2025-05-13 15:23:05 - INFO  - (CreateNewStudent.java:265) => Entered Family Member date of birth
+2025-05-13 15:23:05 - INFO  - (CreateNewStudent.java:271) => Family Member Marital status selected
+2025-05-13 15:23:05 - INFO  - (CreateNewStudent.java:276) => Entered Family Member Marriage date
+2025-05-13 15:23:05 - INFO  - (CreateNewStudent.java:282) => Family Member relation selected
+2025-05-13 15:23:05 - INFO  - (CreateNewStudent.java:288) => Family Member nationality selected
+2025-05-13 15:23:05 - INFO  - (CreateNewStudent.java:293) => Clicked on Done button for Add Family Member
+2025-05-13 15:23:05 - INFO  - (VerifyCreateNewStudent.java:99) => New Student created successgully
+2025-05-13 15:23:06 - INFO  - (TestBase.java:251) => ===== Ending verifyAddFamilyMember() Test =====
+
+2025-05-13 15:23:06 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedFamMemberName() Test =====
+2025-05-13 15:23:16 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyCreatedFamMemberName_20250513032316.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyCreatedFamMemberName_20250513032316.png' height='400' width='700'/> </a>
+2025-05-13 15:23:16 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedFamMemberName() Test =====
+
+2025-05-13 15:34:02 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-13 15:34:02 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-13 15:36:05 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-13 15:36:05 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-13 15:36:15 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-13 15:36:15 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-13 15:36:39 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-13 15:36:39 - INFO  - (TestBase.java:218) => ===== Starting goToAdmissionApplicationPage() Test =====
+2025-05-13 15:36:45 - INFO  - (Utilities.java:245) => Navigate to URL: http://oca-azure-test:8401/AgentApps/ManageApplications.aspx?i=30&pn=Easy%20Application&j=1200&prn=Student%20Application
+2025-05-13 15:36:45 - INFO  - (CreateNewStudent.java:138) => Reached on Admission application page
+2025-05-13 15:36:45 - INFO  - (TestBase.java:251) => ===== Ending goToAdmissionApplicationPage() Test =====
+
+2025-05-13 15:36:45 - INFO  - (TestBase.java:218) => ===== Starting createNewStudent() Test =====
+2025-05-13 15:36:51 - INFO  - (CreateNewStudent.java:143) => Clicked on new student button
+2025-05-13 15:36:52 - INFO  - (CreateNewStudent.java:149) => Title selected
+2025-05-13 15:36:52 - INFO  - (CreateNewStudent.java:154) => Entered student name
+2025-05-13 15:36:52 - INFO  - (CreateNewStudent.java:159) => Entered student middle name
+2025-05-13 15:36:52 - INFO  - (CreateNewStudent.java:165) => Gender selected
+2025-05-13 15:36:53 - INFO  - (CreateNewStudent.java:171) => Entered student date of birth
+2025-05-13 15:36:53 - INFO  - (CreateNewStudent.java:177) => Marital status selected
+2025-05-13 15:36:53 - INFO  - (CreateNewStudent.java:184) => Country Of Citizenship selected
+2025-05-13 15:36:53 - INFO  - (CreateNewStudent.java:191) => Country Of Current Residence selected
+2025-05-13 15:36:54 - INFO  - (CreateNewStudent.java:198) => Mobile country selected
+2025-05-13 15:36:54 - INFO  - (CreateNewStudent.java:203) => Entered student mobile number
+2025-05-13 15:36:54 - INFO  - (CreateNewStudent.java:208) => Entered student email address
+2025-05-13 15:36:54 - INFO  - (CreateNewStudent.java:213) => Cliked on done button after entered student details
+2025-05-13 15:36:54 - INFO  - (VerifyCreateNewStudent.java:65) => New Student created successgully
+2025-05-13 15:36:54 - INFO  - (TestBase.java:251) => ===== Ending createNewStudent() Test =====
+
+2025-05-13 15:36:54 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedNewStudentName() Test =====
+2025-05-13 15:37:04 - INFO  - (VerifyCreateNewStudent.java:80) => Student Name is displayed on student profile page
+2025-05-13 15:37:04 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedNewStudentName() Test =====
+
+2025-05-13 15:37:04 - INFO  - (TestBase.java:218) => ===== Starting verifyAddFamilyMember() Test =====
+2025-05-13 15:37:05 - INFO  - (CreateNewStudent.java:240) => Clicked on Add Family member button
+2025-05-13 15:37:05 - INFO  - (CreateNewStudent.java:247) => Family Title selected
+2025-05-13 15:37:06 - INFO  - (CreateNewStudent.java:261) => Family Gender selected
+2025-05-13 15:37:06 - INFO  - (CreateNewStudent.java:267) => Entered Family Member date of birth
+2025-05-13 15:37:06 - INFO  - (CreateNewStudent.java:273) => Family Member Marital status selected
+2025-05-13 15:37:06 - INFO  - (CreateNewStudent.java:279) => Entered Family Member Marriage date
+2025-05-13 15:37:07 - INFO  - (CreateNewStudent.java:285) => Family Member relation selected
+2025-05-13 15:37:07 - INFO  - (CreateNewStudent.java:291) => Family Member nationality selected
+2025-05-13 15:37:07 - INFO  - (CreateNewStudent.java:296) => Clicked on Done button for Add Family Member
+2025-05-13 15:37:07 - INFO  - (VerifyCreateNewStudent.java:99) => New Student created successgully
+2025-05-13 15:37:07 - INFO  - (TestBase.java:251) => ===== Ending verifyAddFamilyMember() Test =====
+
+2025-05-13 15:37:07 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedFamMemberName() Test =====
+2025-05-13 15:37:17 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyCreatedFamMemberName_20250513033717.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyCreatedFamMemberName_20250513033717.png' height='400' width='700'/> </a>
+2025-05-13 15:37:17 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedFamMemberName() Test =====
+
+2025-05-13 15:43:11 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-13 15:43:11 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-13 15:43:22 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-13 15:43:22 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-13 15:43:46 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-13 15:43:46 - INFO  - (TestBase.java:218) => ===== Starting goToAdmissionApplicationPage() Test =====
+2025-05-13 15:43:47 - INFO  - (Utilities.java:245) => Navigate to URL: http://oca-azure-test:8401/AgentApps/ManageApplications.aspx?i=30&pn=Easy%20Application&j=1200&prn=Student%20Application
+2025-05-13 15:43:47 - INFO  - (CreateNewStudent.java:138) => Reached on Admission application page
+2025-05-13 15:43:47 - INFO  - (TestBase.java:251) => ===== Ending goToAdmissionApplicationPage() Test =====
+
+2025-05-13 15:43:47 - INFO  - (TestBase.java:218) => ===== Starting createNewStudent() Test =====
+2025-05-13 15:43:52 - INFO  - (CreateNewStudent.java:143) => Clicked on new student button
+2025-05-13 15:43:53 - INFO  - (CreateNewStudent.java:149) => Title selected
+2025-05-13 15:43:53 - INFO  - (CreateNewStudent.java:154) => Entered student name
+2025-05-13 15:43:53 - INFO  - (CreateNewStudent.java:159) => Entered student middle name
+2025-05-13 15:43:53 - INFO  - (CreateNewStudent.java:165) => Gender selected
+2025-05-13 15:43:53 - INFO  - (CreateNewStudent.java:171) => Entered student date of birth
+2025-05-13 15:43:54 - INFO  - (CreateNewStudent.java:177) => Marital status selected
+2025-05-13 15:43:54 - INFO  - (CreateNewStudent.java:184) => Country Of Citizenship selected
+2025-05-13 15:43:54 - INFO  - (CreateNewStudent.java:191) => Country Of Current Residence selected
+2025-05-13 15:43:54 - INFO  - (CreateNewStudent.java:198) => Mobile country selected
+2025-05-13 15:43:55 - INFO  - (CreateNewStudent.java:203) => Entered student mobile number
+2025-05-13 15:43:55 - INFO  - (CreateNewStudent.java:208) => Entered student email address
+2025-05-13 15:43:55 - INFO  - (CreateNewStudent.java:213) => Cliked on done button after entered student details
+2025-05-13 15:43:55 - INFO  - (VerifyCreateNewStudent.java:65) => New Student created successgully
+2025-05-13 15:43:55 - INFO  - (TestBase.java:251) => ===== Ending createNewStudent() Test =====
+
+2025-05-13 15:43:55 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedNewStudentName() Test =====
+2025-05-13 15:44:07 - INFO  - (VerifyCreateNewStudent.java:80) => Student Name is displayed on student profile page
+2025-05-13 15:44:07 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedNewStudentName() Test =====
+
+2025-05-13 15:44:07 - INFO  - (TestBase.java:218) => ===== Starting verifyAddFamilyMember() Test =====
+2025-05-13 15:44:08 - INFO  - (CreateNewStudent.java:240) => Clicked on Add Family member button
+2025-05-13 15:44:08 - INFO  - (CreateNewStudent.java:247) => Family Title selected
+2025-05-13 15:44:09 - INFO  - (CreateNewStudent.java:261) => Family Gender selected
+2025-05-13 15:44:09 - INFO  - (CreateNewStudent.java:267) => Entered Family Member date of birth
+2025-05-13 15:44:09 - INFO  - (CreateNewStudent.java:273) => Family Member Marital status selected
+2025-05-13 15:44:09 - INFO  - (CreateNewStudent.java:279) => Entered Family Member Marriage date
+2025-05-13 15:44:10 - INFO  - (CreateNewStudent.java:285) => Family Member relation selected
+2025-05-13 15:44:10 - INFO  - (CreateNewStudent.java:291) => Family Member nationality selected
+2025-05-13 15:44:10 - INFO  - (CreateNewStudent.java:296) => Clicked on Done button for Add Family Member
+2025-05-13 15:44:10 - INFO  - (VerifyCreateNewStudent.java:99) => New Student created successgully
+2025-05-13 15:44:10 - INFO  - (TestBase.java:251) => ===== Ending verifyAddFamilyMember() Test =====
+
+2025-05-13 15:44:10 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedFamMemberName() Test =====
+2025-05-13 15:44:11 - INFO  - (VerifyCreateNewStudent.java:113) => Family Member Name is displayed in family member listing on student profile page
+2025-05-13 15:44:11 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedFamMemberName() Test =====
+
+2025-05-13 16:08:33 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-13 16:08:33 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-13 16:08:38 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-13 16:08:38 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-13 16:11:28 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-13 16:11:28 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-13 16:11:39 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-13 16:11:39 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-13 16:12:06 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-13 16:12:06 - INFO  - (TestBase.java:218) => ===== Starting goToAdmissionApplicationPage() Test =====
+2025-05-13 16:12:07 - INFO  - (Utilities.java:245) => Navigate to URL: http://oca-azure-test:8401/AgentApps/ManageApplications.aspx?i=30&pn=Easy%20Application&j=1200&prn=Student%20Application
+2025-05-13 16:12:07 - INFO  - (CreateNewStudent.java:138) => Reached on Admission application page
+2025-05-13 16:12:07 - INFO  - (TestBase.java:251) => ===== Ending goToAdmissionApplicationPage() Test =====
+
+2025-05-13 16:12:07 - INFO  - (TestBase.java:218) => ===== Starting createNewStudent() Test =====
+2025-05-13 16:12:12 - INFO  - (CreateNewStudent.java:143) => Clicked on new student button
+2025-05-13 16:12:13 - INFO  - (CreateNewStudent.java:149) => Title selected
+2025-05-13 16:12:13 - INFO  - (CreateNewStudent.java:154) => Entered student name
+2025-05-13 16:12:13 - INFO  - (CreateNewStudent.java:159) => Entered student middle name
+2025-05-13 16:12:13 - INFO  - (CreateNewStudent.java:165) => Gender selected
+2025-05-13 16:12:14 - INFO  - (CreateNewStudent.java:171) => Entered student date of birth
+2025-05-13 16:12:14 - INFO  - (CreateNewStudent.java:177) => Marital status selected
+2025-05-13 16:12:14 - INFO  - (CreateNewStudent.java:184) => Country Of Citizenship selected
+2025-05-13 16:12:14 - INFO  - (CreateNewStudent.java:191) => Country Of Current Residence selected
+2025-05-13 16:12:15 - INFO  - (CreateNewStudent.java:198) => Mobile country selected
+2025-05-13 16:12:15 - INFO  - (CreateNewStudent.java:203) => Entered student mobile number
+2025-05-13 16:12:15 - INFO  - (CreateNewStudent.java:208) => Entered student email address
+2025-05-13 16:12:15 - INFO  - (CreateNewStudent.java:213) => Cliked on done button after entered student details
+2025-05-13 16:12:15 - INFO  - (VerifyCreateNewStudent.java:65) => New Student created successgully
+2025-05-13 16:12:15 - INFO  - (TestBase.java:251) => ===== Ending createNewStudent() Test =====
+
+2025-05-13 16:12:15 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedNewStudentName() Test =====
+2025-05-13 16:12:26 - INFO  - (VerifyCreateNewStudent.java:80) => Student Name is displayed on student profile page
+2025-05-13 16:12:26 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedNewStudentName() Test =====
+
+2025-05-13 16:12:26 - INFO  - (TestBase.java:218) => ===== Starting verifyAddFamilyMember() Test =====
+2025-05-13 16:12:26 - INFO  - (CreateNewStudent.java:240) => Clicked on Add Family member button
+2025-05-13 16:12:27 - INFO  - (CreateNewStudent.java:247) => Family Title selected
+2025-05-13 16:12:27 - INFO  - (CreateNewStudent.java:261) => Family Gender selected
+2025-05-13 16:12:27 - INFO  - (CreateNewStudent.java:267) => Entered Family Member date of birth
+2025-05-13 16:12:28 - INFO  - (CreateNewStudent.java:273) => Family Member Marital status selected
+2025-05-13 16:12:28 - INFO  - (CreateNewStudent.java:279) => Entered Family Member Marriage date
+2025-05-13 16:12:28 - INFO  - (CreateNewStudent.java:285) => Family Member relation selected
+2025-05-13 16:12:28 - INFO  - (CreateNewStudent.java:292) => Family Member nationality selected
+2025-05-13 16:12:28 - INFO  - (CreateNewStudent.java:297) => Clicked on Done button for Add Family Member
+2025-05-13 16:12:28 - INFO  - (VerifyCreateNewStudent.java:99) => New Student created successgully
+2025-05-13 16:12:28 - INFO  - (TestBase.java:251) => ===== Ending verifyAddFamilyMember() Test =====
+
+2025-05-13 16:12:28 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedFamMemberName() Test =====
+2025-05-13 16:12:30 - INFO  - (VerifyCreateNewStudent.java:113) => Family Member Name is displayed in family member listing on student profile page
+2025-05-13 16:12:30 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedFamMemberName() Test =====
+
+2025-05-14 09:57:22 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-14 09:57:22 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-14 10:02:46 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-14 10:02:46 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-14 10:02:57 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-14 10:02:57 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-14 10:03:23 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-14 10:03:23 - INFO  - (TestBase.java:218) => ===== Starting goToAdmissionApplicationPage() Test =====
+2025-05-14 10:03:24 - INFO  - (Utilities.java:245) => Navigate to URL: http://oca-azure-test:8401/AgentApps/ManageApplications.aspx?i=30&pn=Easy%20Application&j=1200&prn=Student%20Application
+2025-05-14 10:03:24 - INFO  - (CreateNewStudent.java:166) => Reached on Admission application page
+2025-05-14 10:03:24 - INFO  - (TestBase.java:251) => ===== Ending goToAdmissionApplicationPage() Test =====
+
+2025-05-14 10:03:24 - INFO  - (TestBase.java:218) => ===== Starting createNewStudent() Test =====
+2025-05-14 10:03:30 - INFO  - (CreateNewStudent.java:171) => Clicked on new student button
+2025-05-14 10:03:32 - INFO  - (CreateNewStudent.java:177) => Title selected
+2025-05-14 10:03:32 - INFO  - (CreateNewStudent.java:182) => Entered student name
+2025-05-14 10:03:33 - INFO  - (CreateNewStudent.java:187) => Entered student middle name
+2025-05-14 10:03:33 - INFO  - (CreateNewStudent.java:193) => Gender selected
+2025-05-14 10:03:34 - INFO  - (CreateNewStudent.java:199) => Entered student date of birth
+2025-05-14 10:03:35 - INFO  - (CreateNewStudent.java:205) => Marital status selected
+2025-05-14 10:03:35 - INFO  - (CreateNewStudent.java:212) => Country Of Citizenship selected
+2025-05-14 10:03:36 - INFO  - (CreateNewStudent.java:219) => Country Of Current Residence selected
+2025-05-14 10:03:37 - INFO  - (CreateNewStudent.java:226) => Mobile country selected
+2025-05-14 10:03:37 - INFO  - (CreateNewStudent.java:231) => Entered student mobile number
+2025-05-14 10:03:38 - INFO  - (CreateNewStudent.java:236) => Entered student email address
+2025-05-14 10:03:38 - INFO  - (CreateNewStudent.java:241) => Cliked on done button after entered student details
+2025-05-14 10:03:38 - INFO  - (VerifyCreateNewStudent.java:65) => New Student created successgully
+2025-05-14 10:03:38 - INFO  - (TestBase.java:251) => ===== Ending createNewStudent() Test =====
+
+2025-05-14 10:03:38 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedNewStudentName() Test =====
+2025-05-14 10:03:55 - INFO  - (VerifyCreateNewStudent.java:80) => Student Name is displayed on student profile page
+2025-05-14 10:03:55 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedNewStudentName() Test =====
+
+2025-05-14 10:03:55 - INFO  - (TestBase.java:218) => ===== Starting verifyAddFamilyMember() Test =====
+2025-05-14 10:03:56 - INFO  - (CreateNewStudent.java:271) => Clicked on Add Family member button
+2025-05-14 10:03:57 - INFO  - (CreateNewStudent.java:278) => Family Title selected
+2025-05-14 10:03:58 - INFO  - (CreateNewStudent.java:292) => Family Gender selected
+2025-05-14 10:03:59 - INFO  - (CreateNewStudent.java:298) => Entered Family Member date of birth
+2025-05-14 10:04:00 - INFO  - (CreateNewStudent.java:304) => Family Member Marital status selected
+2025-05-14 10:04:00 - INFO  - (CreateNewStudent.java:310) => Entered Family Member Marriage date
+2025-05-14 10:04:01 - INFO  - (CreateNewStudent.java:316) => Family Member relation selected
+2025-05-14 10:04:01 - INFO  - (CreateNewStudent.java:323) => Family Member nationality selected
+2025-05-14 10:04:02 - INFO  - (CreateNewStudent.java:328) => Clicked on Done button for Add Family Member
+2025-05-14 10:04:02 - INFO  - (VerifyCreateNewStudent.java:99) => Family Member added successgully
+2025-05-14 10:04:02 - INFO  - (TestBase.java:251) => ===== Ending verifyAddFamilyMember() Test =====
+
+2025-05-14 10:04:02 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedFamMemberName() Test =====
+2025-05-14 10:04:03 - INFO  - (VerifyCreateNewStudent.java:115) => Family Member Name is displayed in family member listing on student profile page
+2025-05-14 10:04:03 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedFamMemberName() Test =====
+
+2025-05-14 10:04:03 - INFO  - (TestBase.java:218) => ===== Starting verifyAddAddress() Test =====
+2025-05-14 10:04:03 - INFO  - (CreateNewStudent.java:357) => Clicked on Address Tab
+2025-05-14 10:04:04 - INFO  - (CreateNewStudent.java:362) => Clicked on Address Button
+2025-05-14 10:04:06 - INFO  - (CreateNewStudent.java:369) => Country selected for Add Address
+2025-05-14 10:04:06 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddAddress_20250514100406.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddAddress_20250514100406.png' height='400' width='700'/> </a>
+2025-05-14 10:04:06 - INFO  - (TestBase.java:251) => ===== Ending verifyAddAddress() Test =====
+
+2025-05-14 10:04:06 - INFO  - (TestBase.java:218) => ===== Starting verifyAddedAddressName() Test =====
+2025-05-14 10:04:17 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddedAddressName_20250514100417.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddedAddressName_20250514100417.png' height='400' width='700'/> </a>
+2025-05-14 10:04:17 - INFO  - (TestBase.java:251) => ===== Ending verifyAddedAddressName() Test =====
+
+2025-05-14 10:04:17 - INFO  - (TestBase.java:218) => ===== Starting addPassportDetails() Test =====
+2025-05-14 10:04:18 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\addPassportDetails_20250514100418.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\addPassportDetails_20250514100418.png' height='400' width='700'/> </a>
+2025-05-14 10:04:18 - INFO  - (TestBase.java:251) => ===== Ending addPassportDetails() Test =====
+
+2025-05-14 10:55:56 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-14 10:55:56 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-14 10:56:09 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-14 10:56:09 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-14 10:56:50 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-14 10:56:50 - INFO  - (TestBase.java:218) => ===== Starting verifyAddAddress() Test =====
+2025-05-14 10:56:53 - INFO  - (CreateNewStudent.java:357) => Clicked on Address Tab
+2025-05-14 10:56:55 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddAddress_20250514105655.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddAddress_20250514105655.png' height='400' width='700'/> </a>
+2025-05-14 10:56:55 - INFO  - (TestBase.java:251) => ===== Ending verifyAddAddress() Test =====
+
+2025-05-14 10:56:55 - INFO  - (TestBase.java:218) => ===== Starting verifyAddedAddressName() Test =====
+2025-05-14 10:57:05 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddedAddressName_20250514105705.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddedAddressName_20250514105705.png' height='400' width='700'/> </a>
+2025-05-14 10:57:05 - INFO  - (TestBase.java:251) => ===== Ending verifyAddedAddressName() Test =====
+
+2025-05-14 10:57:05 - INFO  - (TestBase.java:218) => ===== Starting addPassportDetails() Test =====
+2025-05-14 10:57:06 - INFO  - (CreateNewStudent.java:426) => Clicked on Passport Tab
+2025-05-14 10:57:06 - INFO  - (CreateNewStudent.java:431) => Clicked on Add Passport Button
+2025-05-14 10:57:18 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\addPassportDetails_20250514105718.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\addPassportDetails_20250514105718.png' height='400' width='700'/> </a>
+2025-05-14 10:57:18 - INFO  - (TestBase.java:251) => ===== Ending addPassportDetails() Test =====
+
+2025-05-14 11:09:15 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-14 11:09:15 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-14 11:09:26 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-14 11:09:26 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-14 11:09:57 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-14 11:09:57 - INFO  - (TestBase.java:218) => ===== Starting verifyAddAddress() Test =====
+2025-05-14 11:10:01 - INFO  - (CreateNewStudent.java:359) => Clicked on Address Tab
+2025-05-14 11:10:01 - INFO  - (CreateNewStudent.java:365) => Clicked on Address Button
+2025-05-14 11:10:03 - INFO  - (CreateNewStudent.java:372) => Country selected for Add Address
+2025-05-14 11:10:14 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddAddress_20250514111014.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddAddress_20250514111014.png' height='400' width='700'/> </a>
+2025-05-14 11:10:14 - INFO  - (TestBase.java:251) => ===== Ending verifyAddAddress() Test =====
+
+2025-05-14 11:10:14 - INFO  - (TestBase.java:218) => ===== Starting verifyAddedAddressName() Test =====
+2025-05-14 11:10:24 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddedAddressName_20250514111024.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddedAddressName_20250514111024.png' height='400' width='700'/> </a>
+2025-05-14 11:10:24 - INFO  - (TestBase.java:251) => ===== Ending verifyAddedAddressName() Test =====
+
+2025-05-14 11:10:24 - INFO  - (TestBase.java:218) => ===== Starting addPassportDetails() Test =====
+2025-05-14 11:10:26 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\addPassportDetails_20250514111026.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\addPassportDetails_20250514111026.png' height='400' width='700'/> </a>
+2025-05-14 11:10:26 - INFO  - (TestBase.java:251) => ===== Ending addPassportDetails() Test =====
+
+2025-05-14 11:27:05 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-14 11:27:05 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-14 11:28:35 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-14 11:28:35 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-14 11:28:45 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-14 11:28:45 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-14 11:29:13 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-14 11:29:13 - INFO  - (TestBase.java:218) => ===== Starting verifyAddAddress() Test =====
+2025-05-14 11:29:16 - INFO  - (CreateNewStudent.java:359) => Clicked on Address Tab
+2025-05-14 11:29:17 - INFO  - (CreateNewStudent.java:365) => Clicked on Address Button
+2025-05-14 11:29:18 - INFO  - (CreateNewStudent.java:372) => Country selected for Add Address
+2025-05-14 11:29:18 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddAddress_20250514112918.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddAddress_20250514112918.png' height='400' width='700'/> </a>
+2025-05-14 11:29:18 - INFO  - (TestBase.java:251) => ===== Ending verifyAddAddress() Test =====
+
+2025-05-14 11:29:18 - INFO  - (TestBase.java:218) => ===== Starting verifyAddedAddressName() Test =====
+2025-05-14 11:29:29 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddedAddressName_20250514112929.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddedAddressName_20250514112929.png' height='400' width='700'/> </a>
+2025-05-14 11:29:29 - INFO  - (TestBase.java:251) => ===== Ending verifyAddedAddressName() Test =====
+
+2025-05-14 11:29:29 - INFO  - (TestBase.java:218) => ===== Starting addPassportDetails() Test =====
+2025-05-14 11:29:30 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\addPassportDetails_20250514112930.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\addPassportDetails_20250514112930.png' height='400' width='700'/> </a>
+2025-05-14 11:29:30 - INFO  - (TestBase.java:251) => ===== Ending addPassportDetails() Test =====
+
+2025-05-14 11:40:16 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-14 11:40:16 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-14 11:40:28 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-14 11:40:28 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-14 11:40:53 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-14 11:40:53 - INFO  - (TestBase.java:218) => ===== Starting goToAdmissionApplicationPage() Test =====
+2025-05-14 11:40:54 - INFO  - (Utilities.java:245) => Navigate to URL: http://oca-azure-test:8401/AgentApps/ManageApplications.aspx?i=30&pn=Easy%20Application&j=1200&prn=Student%20Application
+2025-05-14 11:40:54 - INFO  - (CreateNewStudent.java:166) => Reached on Admission application page
+2025-05-14 11:40:54 - INFO  - (TestBase.java:251) => ===== Ending goToAdmissionApplicationPage() Test =====
+
+2025-05-14 11:40:54 - INFO  - (TestBase.java:218) => ===== Starting createNewStudent() Test =====
+2025-05-14 11:40:59 - INFO  - (CreateNewStudent.java:171) => Clicked on new student button
+2025-05-14 11:41:00 - INFO  - (CreateNewStudent.java:177) => Title selected
+2025-05-14 11:41:00 - INFO  - (CreateNewStudent.java:182) => Entered student name
+2025-05-14 11:41:01 - INFO  - (CreateNewStudent.java:187) => Entered student middle name
+2025-05-14 11:41:01 - INFO  - (CreateNewStudent.java:193) => Gender selected
+2025-05-14 11:41:01 - INFO  - (CreateNewStudent.java:199) => Entered student date of birth
+2025-05-14 11:41:01 - INFO  - (CreateNewStudent.java:205) => Marital status selected
+2025-05-14 11:41:02 - INFO  - (CreateNewStudent.java:212) => Country Of Citizenship selected
+2025-05-14 11:41:02 - INFO  - (CreateNewStudent.java:219) => Country Of Current Residence selected
+2025-05-14 11:41:02 - INFO  - (CreateNewStudent.java:226) => Mobile country selected
+2025-05-14 11:41:03 - INFO  - (CreateNewStudent.java:231) => Entered student mobile number
+2025-05-14 11:41:03 - INFO  - (CreateNewStudent.java:236) => Entered student email address
+2025-05-14 11:41:03 - INFO  - (CreateNewStudent.java:241) => Cliked on done button after entered student details
+2025-05-14 11:41:03 - INFO  - (VerifyCreateNewStudent.java:66) => New Student created successgully
+2025-05-14 11:41:03 - INFO  - (TestBase.java:251) => ===== Ending createNewStudent() Test =====
+
+2025-05-14 11:41:03 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedNewStudentName() Test =====
+2025-05-14 11:41:14 - INFO  - (VerifyCreateNewStudent.java:81) => Student Name is displayed on student profile page
+2025-05-14 11:41:14 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedNewStudentName() Test =====
+
+2025-05-14 11:41:14 - INFO  - (TestBase.java:218) => ===== Starting verifyAddFamilyMember() Test =====
+2025-05-14 11:41:16 - INFO  - (CreateNewStudent.java:271) => Clicked on Add Family member button
+2025-05-14 11:41:16 - INFO  - (CreateNewStudent.java:278) => Family Title selected
+2025-05-14 11:41:17 - INFO  - (CreateNewStudent.java:292) => Family Gender selected
+2025-05-14 11:41:18 - INFO  - (CreateNewStudent.java:298) => Entered Family Member date of birth
+2025-05-14 11:41:18 - INFO  - (CreateNewStudent.java:304) => Family Member Marital status selected
+2025-05-14 11:41:18 - INFO  - (CreateNewStudent.java:310) => Entered Family Member Marriage date
+2025-05-14 11:41:18 - INFO  - (CreateNewStudent.java:316) => Family Member relation selected
+2025-05-14 11:41:19 - INFO  - (CreateNewStudent.java:323) => Family Member nationality selected
+2025-05-14 11:41:19 - INFO  - (CreateNewStudent.java:328) => Clicked on Done button for Add Family Member
+2025-05-14 11:41:19 - INFO  - (VerifyCreateNewStudent.java:100) => Family Member added successgully
+2025-05-14 11:41:19 - INFO  - (TestBase.java:251) => ===== Ending verifyAddFamilyMember() Test =====
+
+2025-05-14 11:41:19 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedFamMemberName() Test =====
+2025-05-14 11:41:19 - INFO  - (VerifyCreateNewStudent.java:116) => Family Member Name is displayed in family member listing on student profile page
+2025-05-14 11:41:19 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedFamMemberName() Test =====
+
+2025-05-14 11:41:19 - INFO  - (TestBase.java:218) => ===== Starting addPassportDetails() Test =====
+2025-05-14 11:41:20 - INFO  - (CreateNewStudent.java:433) => Clicked on Passport Tab
+2025-05-14 11:41:20 - INFO  - (CreateNewStudent.java:439) => Clicked on Add Passport Button
+2025-05-14 11:41:31 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\addPassportDetails_20250514114131.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\addPassportDetails_20250514114131.png' height='400' width='700'/> </a>
+2025-05-14 11:41:31 - INFO  - (TestBase.java:251) => ===== Ending addPassportDetails() Test =====
+
+2025-05-14 11:47:34 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-14 11:47:34 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-14 11:47:46 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-14 11:47:47 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-14 11:48:17 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-14 11:48:17 - INFO  - (TestBase.java:218) => ===== Starting verifyAddAddress() Test =====
+2025-05-14 11:48:21 - INFO  - (CreateNewStudent.java:359) => Clicked on Address Tab
+2025-05-14 11:48:21 - INFO  - (CreateNewStudent.java:365) => Clicked on Address Button
+2025-05-14 11:48:22 - INFO  - (CreateNewStudent.java:372) => Country selected for Add Address
+2025-05-14 11:48:30 - INFO  - (CreateNewStudent.java:382) => Country selected for Add Address
+2025-05-14 11:48:30 - INFO  - (CreateNewStudent.java:387) => Entered city 
+2025-05-14 11:48:30 - INFO  - (CreateNewStudent.java:392) => Entered address
+2025-05-14 11:48:30 - INFO  - (CreateNewStudent.java:397) => Entered PostCode
+2025-05-14 11:49:45 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddAddress_20250514114944.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddAddress_20250514114944.png' height='400' width='700'/> </a>
+2025-05-14 11:49:45 - INFO  - (TestBase.java:251) => ===== Ending verifyAddAddress() Test =====
+
+2025-05-14 11:49:45 - INFO  - (TestBase.java:218) => ===== Starting verifyAddedAddressName() Test =====
+2025-05-14 11:49:56 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddedAddressName_20250514114956.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddedAddressName_20250514114956.png' height='400' width='700'/> </a>
+2025-05-14 11:49:56 - INFO  - (TestBase.java:251) => ===== Ending verifyAddedAddressName() Test =====
+
+2025-05-14 11:49:56 - INFO  - (TestBase.java:218) => ===== Starting addPassportDetails() Test =====
+2025-05-14 11:49:58 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\addPassportDetails_20250514114958.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\addPassportDetails_20250514114958.png' height='400' width='700'/> </a>
+2025-05-14 11:49:58 - INFO  - (TestBase.java:251) => ===== Ending addPassportDetails() Test =====
+
+2025-05-14 14:38:44 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-14 14:38:44 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-14 14:38:56 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-14 14:38:56 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-14 14:39:25 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-14 14:39:25 - INFO  - (TestBase.java:218) => ===== Starting verifyAddAddress() Test =====
+2025-05-14 14:39:29 - INFO  - (CreateNewStudent.java:359) => Clicked on Address Tab
+2025-05-14 14:39:29 - INFO  - (CreateNewStudent.java:365) => Clicked on Address Button
+2025-05-14 14:39:30 - INFO  - (CreateNewStudent.java:372) => Country selected for Add Address
+2025-05-14 14:39:37 - INFO  - (CreateNewStudent.java:382) => Country selected for Add Address
+2025-05-14 14:39:37 - INFO  - (CreateNewStudent.java:387) => Entered city 
+2025-05-14 14:39:37 - INFO  - (CreateNewStudent.java:392) => Entered address
+2025-05-14 14:39:37 - INFO  - (CreateNewStudent.java:397) => Entered PostCode
+2025-05-14 14:40:38 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddAddress_20250514024038.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddAddress_20250514024038.png' height='400' width='700'/> </a>
+2025-05-14 14:40:38 - INFO  - (TestBase.java:251) => ===== Ending verifyAddAddress() Test =====
+
+2025-05-14 14:40:38 - INFO  - (TestBase.java:218) => ===== Starting verifyAddedAddressName() Test =====
+2025-05-14 14:40:48 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddedAddressName_20250514024048.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddedAddressName_20250514024048.png' height='400' width='700'/> </a>
+2025-05-14 14:40:48 - INFO  - (TestBase.java:251) => ===== Ending verifyAddedAddressName() Test =====
+
+2025-05-14 14:40:48 - INFO  - (TestBase.java:218) => ===== Starting addPassportDetails() Test =====
+2025-05-14 14:40:49 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\addPassportDetails_20250514024049.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\addPassportDetails_20250514024049.png' height='400' width='700'/> </a>
+2025-05-14 14:40:49 - INFO  - (TestBase.java:251) => ===== Ending addPassportDetails() Test =====
+
+2025-05-14 14:45:32 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-14 14:45:32 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-14 14:45:42 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-14 14:45:42 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-14 14:46:07 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-14 14:46:07 - INFO  - (TestBase.java:218) => ===== Starting verifyAddAddress() Test =====
+2025-05-14 14:46:16 - INFO  - (CreateNewStudent.java:359) => Clicked on Address Tab
+2025-05-14 14:46:16 - INFO  - (CreateNewStudent.java:365) => Clicked on Address Button
+2025-05-14 14:46:17 - INFO  - (CreateNewStudent.java:372) => Country selected for Add Address
+2025-05-14 14:46:24 - INFO  - (CreateNewStudent.java:382) => Country selected for Add Address
+2025-05-14 14:46:24 - INFO  - (CreateNewStudent.java:387) => Entered city 
+2025-05-14 14:46:24 - INFO  - (CreateNewStudent.java:392) => Entered address
+2025-05-14 14:46:24 - INFO  - (CreateNewStudent.java:397) => Entered PostCode
+2025-05-14 14:46:24 - INFO  - (CreateNewStudent.java:403) => check box checked
+2025-05-14 14:46:25 - INFO  - (CreateNewStudent.java:408) => Clicked on Done button for Add Family Member
+2025-05-14 14:46:25 - INFO  - (VerifyCreateNewStudent.java:136) => Address added successgully
+2025-05-14 14:46:25 - INFO  - (TestBase.java:251) => ===== Ending verifyAddAddress() Test =====
+
+2025-05-14 14:46:25 - INFO  - (TestBase.java:218) => ===== Starting verifyAddedAddressName() Test =====
+2025-05-14 14:46:35 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddedAddressName_20250514024635.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddedAddressName_20250514024635.png' height='400' width='700'/> </a>
+2025-05-14 14:46:35 - INFO  - (TestBase.java:251) => ===== Ending verifyAddedAddressName() Test =====
+
+2025-05-14 14:46:35 - INFO  - (TestBase.java:218) => ===== Starting addPassportDetails() Test =====
+2025-05-14 14:46:35 - INFO  - (CreateNewStudent.java:434) => Clicked on Passport Tab
+2025-05-14 14:46:36 - INFO  - (CreateNewStudent.java:440) => Clicked on Add Passport Button
+2025-05-14 14:46:36 - INFO  - (CreateNewStudent.java:446) => Selected family member for Passport
+2025-05-14 14:46:37 - INFO  - (CreateNewStudent.java:453) => Issue Country selected for Passport
+2025-05-14 14:46:37 - INFO  - (CreateNewStudent.java:458) => Entered Passport number
+2025-05-14 14:46:37 - INFO  - (CreateNewStudent.java:463) => Entered Issuing Authority name
+2025-05-14 14:46:37 - INFO  - (CreateNewStudent.java:468) => Entered date of issue
+2025-05-14 14:46:37 - INFO  - (CreateNewStudent.java:473) => Entered date of expiry
+2025-05-14 14:46:38 - INFO  - (CreateNewStudent.java:478) => Clicked on Done button to save Passport details
+2025-05-14 14:46:38 - INFO  - (VerifyCreateNewStudent.java:171) => Passport details added successgully
+2025-05-14 14:46:38 - INFO  - (TestBase.java:251) => ===== Ending addPassportDetails() Test =====
+
+2025-05-14 14:53:04 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-14 14:53:04 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-14 14:53:14 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-14 14:53:14 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-14 14:53:38 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-14 14:53:38 - INFO  - (TestBase.java:218) => ===== Starting goToAdmissionApplicationPage() Test =====
+2025-05-14 14:53:47 - INFO  - (Utilities.java:245) => Navigate to URL: http://oca-azure-test:8401/AgentApps/ManageApplications.aspx?i=30&pn=Easy%20Application&j=1200&prn=Student%20Application
+2025-05-14 14:53:47 - INFO  - (CreateNewStudent.java:166) => Reached on Admission application page
+2025-05-14 14:53:47 - INFO  - (TestBase.java:251) => ===== Ending goToAdmissionApplicationPage() Test =====
+
+2025-05-14 14:53:48 - INFO  - (TestBase.java:218) => ===== Starting createNewStudent() Test =====
+2025-05-14 14:53:53 - INFO  - (CreateNewStudent.java:171) => Clicked on new student button
+2025-05-14 14:53:54 - INFO  - (CreateNewStudent.java:177) => Title selected
+2025-05-14 14:53:54 - INFO  - (CreateNewStudent.java:182) => Entered student name
+2025-05-14 14:53:54 - INFO  - (CreateNewStudent.java:187) => Entered student middle name
+2025-05-14 14:53:55 - INFO  - (CreateNewStudent.java:193) => Gender selected
+2025-05-14 14:53:55 - INFO  - (CreateNewStudent.java:199) => Entered student date of birth
+2025-05-14 14:53:55 - INFO  - (CreateNewStudent.java:205) => Marital status selected
+2025-05-14 14:53:55 - INFO  - (CreateNewStudent.java:212) => Country Of Citizenship selected
+2025-05-14 14:53:55 - INFO  - (CreateNewStudent.java:219) => Country Of Current Residence selected
+2025-05-14 14:53:56 - INFO  - (CreateNewStudent.java:226) => Mobile country selected
+2025-05-14 14:53:56 - INFO  - (CreateNewStudent.java:231) => Entered student mobile number
+2025-05-14 14:53:56 - INFO  - (CreateNewStudent.java:236) => Entered student email address
+2025-05-14 14:53:56 - INFO  - (CreateNewStudent.java:241) => Cliked on done button after entered student details
+2025-05-14 14:53:56 - INFO  - (VerifyCreateNewStudent.java:66) => New Student created successgully
+2025-05-14 14:53:56 - INFO  - (TestBase.java:251) => ===== Ending createNewStudent() Test =====
+
+2025-05-14 14:53:56 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedNewStudentName() Test =====
+2025-05-14 14:54:14 - INFO  - (VerifyCreateNewStudent.java:81) => Student Name is displayed on student profile page
+2025-05-14 14:54:14 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedNewStudentName() Test =====
+
+2025-05-14 14:54:14 - INFO  - (TestBase.java:218) => ===== Starting verifyAddFamilyMember() Test =====
+2025-05-14 14:54:15 - INFO  - (CreateNewStudent.java:271) => Clicked on Add Family member button
+2025-05-14 14:54:15 - INFO  - (CreateNewStudent.java:278) => Family Title selected
+2025-05-14 14:54:16 - INFO  - (CreateNewStudent.java:292) => Family Gender selected
+2025-05-14 14:54:16 - INFO  - (CreateNewStudent.java:298) => Entered Family Member date of birth
+2025-05-14 14:54:16 - INFO  - (CreateNewStudent.java:304) => Family Member Marital status selected
+2025-05-14 14:54:17 - INFO  - (CreateNewStudent.java:310) => Entered Family Member Marriage date
+2025-05-14 14:54:17 - INFO  - (CreateNewStudent.java:316) => Family Member relation selected
+2025-05-14 14:54:17 - INFO  - (CreateNewStudent.java:323) => Family Member nationality selected
+2025-05-14 14:54:17 - INFO  - (CreateNewStudent.java:328) => Clicked on Done button for Add Family Member
+2025-05-14 14:54:17 - INFO  - (VerifyCreateNewStudent.java:100) => Family Member added successgully
+2025-05-14 14:54:17 - INFO  - (TestBase.java:251) => ===== Ending verifyAddFamilyMember() Test =====
+
+2025-05-14 14:54:17 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedFamMemberName() Test =====
+2025-05-14 14:54:18 - INFO  - (VerifyCreateNewStudent.java:116) => Family Member Name is displayed in family member listing on student profile page
+2025-05-14 14:54:18 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedFamMemberName() Test =====
+
+2025-05-14 14:54:18 - INFO  - (TestBase.java:218) => ===== Starting verifyAddAddress() Test =====
+2025-05-14 14:54:18 - INFO  - (CreateNewStudent.java:359) => Clicked on Address Tab
+2025-05-14 14:54:19 - INFO  - (CreateNewStudent.java:365) => Clicked on Address Button
+2025-05-14 14:54:20 - INFO  - (CreateNewStudent.java:372) => Country selected for Add Address
+2025-05-14 14:54:26 - INFO  - (CreateNewStudent.java:382) => Country selected for Add Address
+2025-05-14 14:54:26 - INFO  - (CreateNewStudent.java:387) => Entered city 
+2025-05-14 14:54:26 - INFO  - (CreateNewStudent.java:392) => Entered address
+2025-05-14 14:54:27 - INFO  - (CreateNewStudent.java:397) => Entered PostCode
+2025-05-14 14:54:27 - INFO  - (CreateNewStudent.java:403) => check box checked
+2025-05-14 14:54:27 - INFO  - (CreateNewStudent.java:408) => Clicked on Done button for Add Family Member
+2025-05-14 14:54:27 - INFO  - (VerifyCreateNewStudent.java:136) => Address added successgully
+2025-05-14 14:54:27 - INFO  - (TestBase.java:251) => ===== Ending verifyAddAddress() Test =====
+
+2025-05-14 14:54:27 - INFO  - (TestBase.java:218) => ===== Starting verifyAddedAddressName() Test =====
+2025-05-14 14:54:27 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddedAddressName_20250514025427.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddedAddressName_20250514025427.png' height='400' width='700'/> </a>
+2025-05-14 14:54:28 - INFO  - (TestBase.java:251) => ===== Ending verifyAddedAddressName() Test =====
+
+2025-05-14 14:54:28 - INFO  - (TestBase.java:218) => ===== Starting addPassportDetails() Test =====
+2025-05-14 14:54:28 - INFO  - (CreateNewStudent.java:434) => Clicked on Passport Tab
+2025-05-14 14:54:28 - INFO  - (CreateNewStudent.java:440) => Clicked on Add Passport Button
+2025-05-14 14:54:29 - INFO  - (CreateNewStudent.java:446) => Selected family member for Passport
+2025-05-14 14:54:29 - INFO  - (CreateNewStudent.java:453) => Issue Country selected for Passport
+2025-05-14 14:54:29 - INFO  - (CreateNewStudent.java:458) => Entered Passport number
+2025-05-14 14:54:29 - INFO  - (CreateNewStudent.java:463) => Entered Issuing Authority name
+2025-05-14 14:54:30 - INFO  - (CreateNewStudent.java:468) => Entered date of issue
+2025-05-14 14:54:30 - INFO  - (CreateNewStudent.java:473) => Entered date of expiry
+2025-05-14 14:54:30 - INFO  - (CreateNewStudent.java:478) => Clicked on Done button to save Passport details
+2025-05-14 14:54:30 - INFO  - (VerifyCreateNewStudent.java:171) => Passport details added successgully
+2025-05-14 14:54:30 - INFO  - (TestBase.java:251) => ===== Ending addPassportDetails() Test =====
+
+2025-05-14 15:04:38 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-14 15:04:38 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-14 15:04:49 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-14 15:04:49 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-14 15:05:15 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-14 15:05:15 - INFO  - (TestBase.java:218) => ===== Starting goToAdmissionApplicationPage() Test =====
+2025-05-14 15:05:15 - INFO  - (Utilities.java:245) => Navigate to URL: http://oca-azure-test:8401/AgentApps/ManageApplications.aspx?i=30&pn=Easy%20Application&j=1200&prn=Student%20Application
+2025-05-14 15:05:15 - INFO  - (CreateNewStudent.java:166) => Reached on Admission application page
+2025-05-14 15:05:15 - INFO  - (TestBase.java:251) => ===== Ending goToAdmissionApplicationPage() Test =====
+
+2025-05-14 15:05:15 - INFO  - (TestBase.java:218) => ===== Starting createNewStudent() Test =====
+2025-05-14 15:05:21 - INFO  - (CreateNewStudent.java:171) => Clicked on new student button
+2025-05-14 15:05:22 - INFO  - (CreateNewStudent.java:177) => Title selected
+2025-05-14 15:05:22 - INFO  - (CreateNewStudent.java:182) => Entered student name
+2025-05-14 15:05:22 - INFO  - (CreateNewStudent.java:187) => Entered student middle name
+2025-05-14 15:05:23 - INFO  - (CreateNewStudent.java:193) => Gender selected
+2025-05-14 15:05:23 - INFO  - (CreateNewStudent.java:199) => Entered student date of birth
+2025-05-14 15:05:23 - INFO  - (CreateNewStudent.java:205) => Marital status selected
+2025-05-14 15:05:24 - INFO  - (CreateNewStudent.java:212) => Country Of Citizenship selected
+2025-05-14 15:05:24 - INFO  - (CreateNewStudent.java:219) => Country Of Current Residence selected
+2025-05-14 15:05:24 - INFO  - (CreateNewStudent.java:226) => Mobile country selected
+2025-05-14 15:05:25 - INFO  - (CreateNewStudent.java:231) => Entered student mobile number
+2025-05-14 15:05:25 - INFO  - (CreateNewStudent.java:236) => Entered student email address
+2025-05-14 15:05:25 - INFO  - (CreateNewStudent.java:241) => Cliked on done button after entered student details
+2025-05-14 15:05:25 - INFO  - (VerifyCreateNewStudent.java:66) => New Student created successgully
+2025-05-14 15:05:25 - INFO  - (TestBase.java:251) => ===== Ending createNewStudent() Test =====
+
+2025-05-14 15:05:25 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedNewStudentName() Test =====
+2025-05-14 15:05:39 - INFO  - (VerifyCreateNewStudent.java:81) => Student Name is displayed on student profile page
+2025-05-14 15:05:39 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedNewStudentName() Test =====
+
+2025-05-14 15:05:39 - INFO  - (TestBase.java:218) => ===== Starting verifyAddFamilyMember() Test =====
+2025-05-14 15:05:39 - INFO  - (CreateNewStudent.java:271) => Clicked on Add Family member button
+2025-05-14 15:05:40 - INFO  - (CreateNewStudent.java:278) => Family Title selected
+2025-05-14 15:05:41 - INFO  - (CreateNewStudent.java:292) => Family Gender selected
+2025-05-14 15:05:41 - INFO  - (CreateNewStudent.java:298) => Entered Family Member date of birth
+2025-05-14 15:05:41 - INFO  - (CreateNewStudent.java:304) => Family Member Marital status selected
+2025-05-14 15:05:42 - INFO  - (CreateNewStudent.java:310) => Entered Family Member Marriage date
+2025-05-14 15:05:42 - INFO  - (CreateNewStudent.java:316) => Family Member relation selected
+2025-05-14 15:05:42 - INFO  - (CreateNewStudent.java:323) => Family Member nationality selected
+2025-05-14 15:05:42 - INFO  - (CreateNewStudent.java:328) => Clicked on Done button for Add Family Member
+2025-05-14 15:05:42 - INFO  - (VerifyCreateNewStudent.java:100) => Family Member added successgully
+2025-05-14 15:05:42 - INFO  - (TestBase.java:251) => ===== Ending verifyAddFamilyMember() Test =====
+
+2025-05-14 15:05:42 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedFamMemberName() Test =====
+2025-05-14 15:05:43 - INFO  - (VerifyCreateNewStudent.java:116) => Family Member Name is displayed in family member listing on student profile page
+2025-05-14 15:05:43 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedFamMemberName() Test =====
+
+2025-05-14 15:05:43 - INFO  - (TestBase.java:218) => ===== Starting verifyAddAddress() Test =====
+2025-05-14 15:05:44 - INFO  - (CreateNewStudent.java:359) => Clicked on Address Tab
+2025-05-14 15:05:44 - INFO  - (CreateNewStudent.java:365) => Clicked on Address Button
+2025-05-14 15:05:45 - INFO  - (CreateNewStudent.java:372) => Country selected for Add Address
+2025-05-14 15:05:52 - INFO  - (CreateNewStudent.java:382) => Country selected for Add Address
+2025-05-14 15:05:52 - INFO  - (CreateNewStudent.java:387) => Entered city 
+2025-05-14 15:05:52 - INFO  - (CreateNewStudent.java:392) => Entered address
+2025-05-14 15:05:52 - INFO  - (CreateNewStudent.java:397) => Entered PostCode
+2025-05-14 15:05:52 - INFO  - (CreateNewStudent.java:403) => check box checked
+2025-05-14 15:05:53 - INFO  - (CreateNewStudent.java:408) => Clicked on Done button for Add Family Member
+2025-05-14 15:05:53 - INFO  - (VerifyCreateNewStudent.java:136) => Address added successgully
+2025-05-14 15:05:53 - INFO  - (TestBase.java:251) => ===== Ending verifyAddAddress() Test =====
+
+2025-05-14 15:05:53 - INFO  - (TestBase.java:218) => ===== Starting verifyAddedAddressName() Test =====
+2025-05-14 15:05:53 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddedAddressName_20250514030553.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddedAddressName_20250514030553.png' height='400' width='700'/> </a>
+2025-05-14 15:05:53 - INFO  - (TestBase.java:251) => ===== Ending verifyAddedAddressName() Test =====
+
+2025-05-14 15:05:53 - INFO  - (TestBase.java:218) => ===== Starting addPassportDetails() Test =====
+2025-05-14 15:05:54 - INFO  - (CreateNewStudent.java:434) => Clicked on Passport Tab
+2025-05-14 15:05:54 - INFO  - (CreateNewStudent.java:440) => Clicked on Add Passport Button
+2025-05-14 15:05:55 - INFO  - (CreateNewStudent.java:446) => Selected family member for Passport
+2025-05-14 15:05:55 - INFO  - (CreateNewStudent.java:453) => Issue Country selected for Passport
+2025-05-14 15:05:55 - INFO  - (CreateNewStudent.java:458) => Entered Passport number
+2025-05-14 15:05:56 - INFO  - (CreateNewStudent.java:463) => Entered Issuing Authority name
+2025-05-14 15:05:56 - INFO  - (CreateNewStudent.java:468) => Entered date of issue
+2025-05-14 15:05:56 - INFO  - (CreateNewStudent.java:473) => Entered date of expiry
+2025-05-14 15:05:56 - INFO  - (CreateNewStudent.java:478) => Clicked on Done button to save Passport details
+2025-05-14 15:05:56 - INFO  - (VerifyCreateNewStudent.java:171) => Passport details added successgully
+2025-05-14 15:05:56 - INFO  - (TestBase.java:251) => ===== Ending addPassportDetails() Test =====
+
+2025-05-14 15:41:50 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-14 15:41:50 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-14 15:53:38 - INFO  - (TestBase.java:75) => Operaing System: windows 11, Browser Name and Version: chrome 136.0.7103.93
+2025-05-14 15:53:38 - INFO  - (TestBase.java:56) => Browser opened successfully.
+2025-05-14 15:53:40 - INFO  - (TestBase.java:156) => Entered URL: http://oca-azure-test:8401/LogIn.aspx
+
+2025-05-14 15:53:40 - INFO  - (TestBase.java:218) => ===== Starting loginIntoWebApp() Test =====
+2025-05-14 15:54:12 - INFO  - (TestBase.java:251) => ===== Ending loginIntoWebApp() Test =====
+
+2025-05-14 15:54:12 - INFO  - (TestBase.java:218) => ===== Starting goToAdmissionApplicationPage() Test =====
+2025-05-14 15:54:13 - INFO  - (Utilities.java:245) => Navigate to URL: http://oca-azure-test:8401/AgentApps/ManageApplications.aspx?i=30&pn=Easy%20Application&j=1200&prn=Student%20Application
+2025-05-14 15:54:13 - INFO  - (CreateNewStudent.java:166) => Reached on Admission application page
+2025-05-14 15:54:13 - INFO  - (TestBase.java:251) => ===== Ending goToAdmissionApplicationPage() Test =====
+
+2025-05-14 15:54:13 - INFO  - (TestBase.java:218) => ===== Starting createNewStudent() Test =====
+2025-05-14 15:54:18 - INFO  - (CreateNewStudent.java:171) => Clicked on new student button
+2025-05-14 15:54:19 - INFO  - (CreateNewStudent.java:177) => Title selected
+2025-05-14 15:54:19 - INFO  - (CreateNewStudent.java:182) => Entered student name
+2025-05-14 15:54:19 - INFO  - (CreateNewStudent.java:187) => Entered student middle name
+2025-05-14 15:54:19 - INFO  - (CreateNewStudent.java:193) => Gender selected
+2025-05-14 15:54:20 - INFO  - (CreateNewStudent.java:199) => Entered student date of birth
+2025-05-14 15:54:20 - INFO  - (CreateNewStudent.java:205) => Marital status selected
+2025-05-14 15:54:20 - INFO  - (CreateNewStudent.java:212) => Country Of Citizenship selected
+2025-05-14 15:54:20 - INFO  - (CreateNewStudent.java:219) => Country Of Current Residence selected
+2025-05-14 15:54:21 - INFO  - (CreateNewStudent.java:226) => Mobile country selected
+2025-05-14 15:54:21 - INFO  - (CreateNewStudent.java:231) => Entered student mobile number
+2025-05-14 15:54:21 - INFO  - (CreateNewStudent.java:236) => Entered student email address
+2025-05-14 15:54:21 - INFO  - (CreateNewStudent.java:241) => Cliked on done button after entered student details
+2025-05-14 15:54:21 - INFO  - (VerifyCreateNewStudent.java:66) => New Student created successgully
+2025-05-14 15:54:21 - INFO  - (TestBase.java:251) => ===== Ending createNewStudent() Test =====
+
+2025-05-14 15:54:21 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedNewStudentName() Test =====
+2025-05-14 15:54:33 - INFO  - (VerifyCreateNewStudent.java:81) => Student Name is displayed on student profile page
+2025-05-14 15:54:33 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedNewStudentName() Test =====
+
+2025-05-14 15:54:33 - INFO  - (TestBase.java:218) => ===== Starting verifyAddFamilyMember() Test =====
+2025-05-14 15:54:33 - INFO  - (CreateNewStudent.java:271) => Clicked on Add Family member button
+2025-05-14 15:54:34 - INFO  - (CreateNewStudent.java:278) => Family Title selected
+2025-05-14 15:54:34 - INFO  - (CreateNewStudent.java:292) => Family Gender selected
+2025-05-14 15:54:35 - INFO  - (CreateNewStudent.java:298) => Entered Family Member date of birth
+2025-05-14 15:54:35 - INFO  - (CreateNewStudent.java:304) => Family Member Marital status selected
+2025-05-14 15:54:35 - INFO  - (CreateNewStudent.java:310) => Entered Family Member Marriage date
+2025-05-14 15:54:35 - INFO  - (CreateNewStudent.java:316) => Family Member relation selected
+2025-05-14 15:54:36 - INFO  - (CreateNewStudent.java:323) => Family Member nationality selected
+2025-05-14 15:54:36 - INFO  - (CreateNewStudent.java:328) => Clicked on Done button for Add Family Member
+2025-05-14 15:54:36 - INFO  - (VerifyCreateNewStudent.java:100) => Family Member added successgully
+2025-05-14 15:54:36 - INFO  - (TestBase.java:251) => ===== Ending verifyAddFamilyMember() Test =====
+
+2025-05-14 15:54:36 - INFO  - (TestBase.java:218) => ===== Starting verifyCreatedFamMemberName() Test =====
+2025-05-14 15:54:37 - INFO  - (VerifyCreateNewStudent.java:116) => Family Member Name is displayed in family member listing on student profile page
+2025-05-14 15:54:37 - INFO  - (TestBase.java:251) => ===== Ending verifyCreatedFamMemberName() Test =====
+
+2025-05-14 15:54:37 - INFO  - (TestBase.java:218) => ===== Starting verifyAddAddress() Test =====
+2025-05-14 15:54:37 - INFO  - (CreateNewStudent.java:359) => Clicked on Address Tab
+2025-05-14 15:54:37 - INFO  - (CreateNewStudent.java:365) => Clicked on Address Button
+2025-05-14 15:54:38 - INFO  - (CreateNewStudent.java:372) => Country selected for Add Address
+2025-05-14 15:54:45 - INFO  - (CreateNewStudent.java:382) => Country selected for Add Address
+2025-05-14 15:54:45 - INFO  - (CreateNewStudent.java:387) => Entered city 
+2025-05-14 15:54:45 - INFO  - (CreateNewStudent.java:392) => Entered address
+2025-05-14 15:54:45 - INFO  - (CreateNewStudent.java:397) => Entered PostCode
+2025-05-14 15:54:45 - INFO  - (CreateNewStudent.java:403) => check box checked
+2025-05-14 15:54:46 - INFO  - (CreateNewStudent.java:408) => Clicked on Done button for Add Family Member
+2025-05-14 15:54:46 - INFO  - (VerifyCreateNewStudent.java:136) => Address added successgully
+2025-05-14 15:54:46 - INFO  - (TestBase.java:251) => ===== Ending verifyAddAddress() Test =====
+
+2025-05-14 15:54:46 - INFO  - (TestBase.java:218) => ===== Starting verifyAddedAddressName() Test =====
+2025-05-14 15:54:56 - INFO  - (TestBase.java:162) => <a href='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddedAddressName_20250514035456.png'> <img src='C:\Users\vikas.verma\Automation-workspace\TechNext_Automation\TestReports\Screenshot\verifyAddedAddressName_20250514035456.png' height='400' width='700'/> </a>
+2025-05-14 15:54:56 - INFO  - (TestBase.java:251) => ===== Ending verifyAddedAddressName() Test =====
+
+2025-05-14 15:54:56 - INFO  - (TestBase.java:218) => ===== Starting addPassportDetails() Test =====
+2025-05-14 15:54:56 - INFO  - (CreateNewStudent.java:434) => Clicked on Passport Tab
+2025-05-14 15:54:57 - INFO  - (CreateNewStudent.java:440) => Clicked on Add Passport Button
+2025-05-14 15:54:57 - INFO  - (CreateNewStudent.java:446) => Selected family member for Passport
+2025-05-14 15:54:58 - INFO  - (CreateNewStudent.java:453) => Issue Country selected for Passport
+2025-05-14 15:54:58 - INFO  - (CreateNewStudent.java:458) => Entered Passport number
+2025-05-14 15:54:58 - INFO  - (CreateNewStudent.java:463) => Entered Issuing Authority name
+2025-05-14 15:54:58 - INFO  - (CreateNewStudent.java:468) => Entered date of issue
+2025-05-14 15:54:58 - INFO  - (CreateNewStudent.java:473) => Entered date of expiry
+2025-05-14 15:54:58 - INFO  - (CreateNewStudent.java:478) => Clicked on Done button to save Passport details
+2025-05-14 15:54:58 - INFO  - (VerifyCreateNewStudent.java:171) => Passport details added successgully
+2025-05-14 15:54:58 - INFO  - (TestBase.java:251) => ===== Ending addPassportDetails() Test =====
+

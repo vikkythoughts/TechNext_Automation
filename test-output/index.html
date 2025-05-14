@@ -25,7 +25,7 @@
       <span class="top-banner-title-font">Test results</span>
       <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite</span>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -39,7 +39,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" panel-name="suite-Default_suite" class="navigator-link">
-              <span class="suite-name border-passed">Default suite</span>
+              <span class="suite-name border-failed">Default suite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -50,7 +50,7 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-Default_suite" class="navigator-link ">
-                    <span>C:\Users\vikas.verma\AppData\Local\Temp\testng-eclipse--1434004497\testng-customsuite.xml</span>
+                    <span>C:\Users\vikas.verma\AppData\Local\Temp\testng-eclipse-1799765498\testng-customsuite.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -92,7 +92,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">4 methods,   4 passed</span>
+                    <span class="method-stats">9 methods, 1 failed,   8 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Default_suite" class="hide-methods failed suite-Default_suite"> (hide)</a> <!-- hide-methods failed suite-Default_suite -->
+                      <a href="#" panel-name="suite-Default_suite" class="show-methods failed suite-Default_suite"> (show)</a> <!-- show-methods failed suite-Default_suite -->
+                    </span>
+                    <div class="method-list-content failed suite-Default_suite">
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.qa.test.create_new_student.VerifyCreateNewStudent" class="method navigator-link" hash-for-method="verifyAddedAddressName">verifyAddedAddressName</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Default_suite -->
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -103,22 +117,42 @@
                     <div class="method-list-content passed suite-Default_suite">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Default_suite" title="com.qa.test.student_registration.VerifyStudentRegistation" class="method navigator-link" hash-for-method="TC_001_verifyStudentRegistration">TC_001_verifyStudentRegistration</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Default_suite" title="com.qa.test.create_new_student.VerifyCreateNewStudent" class="method navigator-link" hash-for-method="addPassportDetails">addPassportDetails</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Default_suite" title="com.qa.test.student_registration.VerifyStudentRegistation" class="method navigator-link" hash-for-method="TC_002_verifyStudentEmail">TC_002_verifyStudentEmail</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Default_suite" title="com.qa.test.create_new_student.VerifyCreateNewStudent" class="method navigator-link" hash-for-method="createNewStudent">createNewStudent</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Default_suite" title="com.qa.test.student_registration.VerifyStudentRegistation" class="method navigator-link" hash-for-method="TC_003_loginByRegisterStudent">TC_003_loginByRegisterStudent</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Default_suite" title="com.qa.test.create_new_student.VerifyCreateNewStudent" class="method navigator-link" hash-for-method="goToAdmissionApplicationPage">goToAdmissionApplicationPage</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Default_suite" title="com.qa.test.student_registration.VerifyStudentRegistation" class="method navigator-link" hash-for-method="TC_004_verifyStudentNameAfterLogin">TC_004_verifyStudentNameAfterLogin</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Default_suite" title="com.qa.test.create_new_student.VerifyCreateNewStudent" class="method navigator-link" hash-for-method="loginIntoWebApp">loginIntoWebApp</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.qa.test.create_new_student.VerifyCreateNewStudent" class="method navigator-link" hash-for-method="verifyAddAddress">verifyAddAddress</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.qa.test.create_new_student.VerifyCreateNewStudent" class="method navigator-link" hash-for-method="verifyAddFamilyMember">verifyAddFamilyMember</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.qa.test.create_new_student.VerifyCreateNewStudent" class="method navigator-link" hash-for-method="verifyCreatedFamMemberName">verifyCreatedFamMemberName</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.qa.test.create_new_student.VerifyCreateNewStudent" class="method navigator-link" hash-for-method="verifyCreatedNewStudentName">verifyCreatedNewStudentName</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Default_suite -->
@@ -133,38 +167,113 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Default_suite" class="panel Default_suite">
-          <div class="suite-Default_suite-class-passed">
+          <div class="suite-Default_suite-class-failed">
             <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
-              <span class="class-name">com.qa.test.student_registration.VerifyStudentRegistation</span>
+              <img src="failed.png"/>
+              <span class="class-name">com.qa.test.create_new_student.VerifyCreateNewStudent</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="TC_001_verifyStudentRegistration">
-                  </a> <!-- TC_001_verifyStudentRegistration -->
-                  <span class="method-name">TC_001_verifyStudentRegistration</span>
+                  <a name="verifyAddedAddressName">
+                  </a> <!-- verifyAddedAddressName -->
+                  <span class="method-name">verifyAddedAddressName</span>
+                  <div class="stack-trace">java.lang.AssertionError: null
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.fail(Assert.java:116)
+	at com.qa.test.create_new_student.VerifyCreateNewStudent.verifyAddedAddressName(VerifyCreateNewStudent.java:155)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Default_suite-class-failed -->
+          <div class="suite-Default_suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.qa.test.create_new_student.VerifyCreateNewStudent</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="addPassportDetails">
+                  </a> <!-- addPassportDetails -->
+                  <span class="method-name">addPassportDetails</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="TC_002_verifyStudentEmail">
-                  </a> <!-- TC_002_verifyStudentEmail -->
-                  <span class="method-name">TC_002_verifyStudentEmail</span>
+                  <a name="createNewStudent">
+                  </a> <!-- createNewStudent -->
+                  <span class="method-name">createNewStudent</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="TC_003_loginByRegisterStudent">
-                  </a> <!-- TC_003_loginByRegisterStudent -->
-                  <span class="method-name">TC_003_loginByRegisterStudent</span>
+                  <a name="goToAdmissionApplicationPage">
+                  </a> <!-- goToAdmissionApplicationPage -->
+                  <span class="method-name">goToAdmissionApplicationPage</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="TC_004_verifyStudentNameAfterLogin">
-                  </a> <!-- TC_004_verifyStudentNameAfterLogin -->
-                  <span class="method-name">TC_004_verifyStudentNameAfterLogin</span>
+                  <a name="loginIntoWebApp">
+                  </a> <!-- loginIntoWebApp -->
+                  <span class="method-name">loginIntoWebApp</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyAddAddress">
+                  </a> <!-- verifyAddAddress -->
+                  <span class="method-name">verifyAddAddress</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyAddFamilyMember">
+                  </a> <!-- verifyAddFamilyMember -->
+                  <span class="method-name">verifyAddFamilyMember</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyCreatedFamMemberName">
+                  </a> <!-- verifyCreatedFamMemberName -->
+                  <span class="method-name">verifyCreatedFamMemberName</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyCreatedNewStudentName">
+                  </a> <!-- verifyCreatedNewStudentName -->
+                  <span class="method-name">verifyCreatedNewStudentName</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -172,7 +281,7 @@
         </div> <!-- panel Default_suite -->
         <div panel-name="test-xml-Default_suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\vikas.verma\AppData\Local\Temp\testng-eclipse--1434004497\testng-customsuite.xml</span>
+            <span class="header-content">C:\Users\vikas.verma\AppData\Local\Temp\testng-eclipse-1799765498\testng-customsuite.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -181,7 +290,7 @@
 &lt;suite name=&quot;Default suite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
   &lt;test thread-count=&quot;5&quot; name=&quot;Default test&quot; verbose=&quot;2&quot;&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;com.qa.test.student_registration.VerifyStudentRegistation&quot;/&gt;
+      &lt;class name=&quot;com.qa.test.create_new_student.VerifyCreateNewStudent&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Default test --&gt;
 &lt;/suite&gt; &lt;!-- Default suite --&gt;
@@ -221,28 +330,48 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(4);
+data.addRows(9);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'TC_002_verifyStudentEmail')
-data.setCell(0, 2, 'com.qa.test.student_registration.VerifyStudentRegistation')
-data.setCell(0, 3, 15791);
+data.setCell(0, 1, 'loginIntoWebApp')
+data.setCell(0, 2, 'com.qa.test.create_new_student.VerifyCreateNewStudent')
+data.setCell(0, 3, 31811);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'TC_004_verifyStudentNameAfterLogin')
-data.setCell(1, 2, 'com.qa.test.student_registration.VerifyStudentRegistation')
-data.setCell(1, 3, 7705);
+data.setCell(1, 1, 'verifyCreatedNewStudentName')
+data.setCell(1, 2, 'com.qa.test.create_new_student.VerifyCreateNewStudent')
+data.setCell(1, 3, 11379);
 data.setCell(2, 0, 2)
-data.setCell(2, 1, 'TC_001_verifyStudentRegistration')
-data.setCell(2, 2, 'com.qa.test.student_registration.VerifyStudentRegistation')
-data.setCell(2, 3, 4569);
+data.setCell(2, 1, 'verifyAddedAddressName')
+data.setCell(2, 2, 'com.qa.test.create_new_student.VerifyCreateNewStudent')
+data.setCell(2, 3, 10168);
 data.setCell(3, 0, 3)
-data.setCell(3, 1, 'TC_003_loginByRegisterStudent')
-data.setCell(3, 2, 'com.qa.test.student_registration.VerifyStudentRegistation')
-data.setCell(3, 3, 2303);
+data.setCell(3, 1, 'verifyAddAddress')
+data.setCell(3, 2, 'com.qa.test.create_new_student.VerifyCreateNewStudent')
+data.setCell(3, 3, 8832);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'createNewStudent')
+data.setCell(4, 2, 'com.qa.test.create_new_student.VerifyCreateNewStudent')
+data.setCell(4, 3, 8725);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'verifyAddFamilyMember')
+data.setCell(5, 2, 'com.qa.test.create_new_student.VerifyCreateNewStudent')
+data.setCell(5, 3, 2969);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'addPassportDetails')
+data.setCell(6, 2, 'com.qa.test.create_new_student.VerifyCreateNewStudent')
+data.setCell(6, 3, 2412);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'verifyCreatedFamMemberName')
+data.setCell(7, 2, 'com.qa.test.create_new_student.VerifyCreateNewStudent')
+data.setCell(7, 3, 1040);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'goToAdmissionApplicationPage')
+data.setCell(8, 2, 'com.qa.test.create_new_student.VerifyCreateNewStudent')
+data.setCell(8, 3, 894);
 window.suiteTableData['Default_suite']= { tableData: data, tableDiv: 'times-div-Default_suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 30 seconds</span>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
               <div id="times-div-Default_suite">
               </div> <!-- times-div-Default_suite -->
             </div> <!-- times-div -->
@@ -268,68 +397,130 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">com.qa.test.student_registration.VerifyStudentRegistation</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">com.qa.test.create_new_student.VerifyCreateNewStudent</div> <!-- chronological-class-name -->
               <div class="configuration-suite before">
                 <span class="method-name">startExtentReport</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-suite before -->
               <div class="configuration-class before">
                 <span class="method-name">PreRequisite</span>
-                <span class="method-start">1198 ms</span>
+                <span class="method-start">1126 ms</span>
               </div> <!-- configuration-class before -->
               <div class="configuration-method before">
-                <span class="method-name">beforeTestResult(public void com.qa.test.student_registration.VerifyStudentRegistation.TC_001_verifyStudentRegistrati...)</span>
-                <span class="method-start">14799 ms</span>
+                <span class="method-name">beforeTestResult(public void com.qa.test.create_new_student.VerifyCreateNewStudent.loginIntoWebApp() throws java.lang...)</span>
+                <span class="method-start">10748 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <span class="method-name">TC_001_verifyStudentRegistration</span>
-                <span class="method-start">15039 ms</span>
+                <span class="method-name">loginIntoWebApp</span>
+                <span class="method-start">10849 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
-                <span class="method-name">afterTestResult([TestResult name=TC_001_verifyStudentRegistration status=SUCCESS method=VerifyStudentRegistation.TC_...)</span>
-                <span class="method-start">19629 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="test-method">
-                <span class="method-name">TC_002_verifyStudentEmail</span>
-                <span class="method-start">19636 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-method before">
-                <span class="method-name">beforeTestResult(public void com.qa.test.student_registration.VerifyStudentRegistation.TC_002_verifyStudentEmail() th...)</span>
-                <span class="method-start">19636 ms</span>
-              </div> <!-- configuration-method before -->
-              <div class="configuration-method after">
-                <span class="method-name">afterTestResult([TestResult name=TC_002_verifyStudentEmail status=SUCCESS method=VerifyStudentRegistation.TC_002_ver...)</span>
-                <span class="method-start">35432 ms</span>
+                <span class="method-name">afterTestResult([TestResult name=loginIntoWebApp status=SUCCESS method=VerifyCreateNewStudent.loginIntoWebApp()[pri:...)</span>
+                <span class="method-start">42690 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
-                <span class="method-name">beforeTestResult(public void com.qa.test.student_registration.VerifyStudentRegistation.TC_003_loginByRegisterStudent(...)</span>
-                <span class="method-start">35440 ms</span>
+                <span class="method-name">beforeTestResult(public void com.qa.test.create_new_student.VerifyCreateNewStudent.goToAdmissionApplicationPage() thr...)</span>
+                <span class="method-start">42704 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <span class="method-name">TC_003_loginByRegisterStudent</span>
-                <span class="method-start">35444 ms</span>
+                <span class="method-name">goToAdmissionApplicationPage</span>
+                <span class="method-start">42711 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
-                <span class="method-name">afterTestResult([TestResult name=TC_003_loginByRegisterStudent status=SUCCESS method=VerifyStudentRegistation.TC_003...)</span>
-                <span class="method-start">37756 ms</span>
+                <span class="method-name">afterTestResult([TestResult name=goToAdmissionApplicationPage status=SUCCESS method=VerifyCreateNewStudent.goToAdmis...)</span>
+                <span class="method-start">43615 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
-                <span class="method-name">beforeTestResult(public void com.qa.test.student_registration.VerifyStudentRegistation.TC_004_verifyStudentNameAfterL...)</span>
-                <span class="method-start">37766 ms</span>
+                <span class="method-name">beforeTestResult(public void com.qa.test.create_new_student.VerifyCreateNewStudent.createNewStudent())</span>
+                <span class="method-start">43622 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <span class="method-name">TC_004_verifyStudentNameAfterLogin</span>
-                <span class="method-start">37775 ms</span>
+                <span class="method-name">createNewStudent</span>
+                <span class="method-start">43627 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
-                <span class="method-name">afterTestResult([TestResult name=TC_004_verifyStudentNameAfterLogin status=SUCCESS method=VerifyStudentRegistation.T...)</span>
-                <span class="method-start">45486 ms</span>
+                <span class="method-name">afterTestResult([TestResult name=createNewStudent status=SUCCESS method=VerifyCreateNewStudent.createNewStudent()[pr...)</span>
+                <span class="method-start">52360 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeTestResult(public void com.qa.test.create_new_student.VerifyCreateNewStudent.verifyCreatedNewStudentName())</span>
+                <span class="method-start">52365 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyCreatedNewStudentName</span>
+                <span class="method-start">52371 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterTestResult([TestResult name=verifyCreatedNewStudentName status=SUCCESS method=VerifyCreateNewStudent.verifyCrea...)</span>
+                <span class="method-start">63757 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeTestResult(public void com.qa.test.create_new_student.VerifyCreateNewStudent.verifyAddFamilyMember())</span>
+                <span class="method-start">63763 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyAddFamilyMember</span>
+                <span class="method-start">63767 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterTestResult([TestResult name=verifyAddFamilyMember status=SUCCESS method=VerifyCreateNewStudent.verifyAddFamilyM...)</span>
+                <span class="method-start">66744 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeTestResult(public void com.qa.test.create_new_student.VerifyCreateNewStudent.verifyCreatedFamMemberName())</span>
+                <span class="method-start">66750 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyCreatedFamMemberName</span>
+                <span class="method-start">66756 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterTestResult([TestResult name=verifyCreatedFamMemberName status=SUCCESS method=VerifyCreateNewStudent.verifyCreat...)</span>
+                <span class="method-start">67801 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeTestResult(public void com.qa.test.create_new_student.VerifyCreateNewStudent.verifyAddAddress())</span>
+                <span class="method-start">67807 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyAddAddress</span>
+                <span class="method-start">67813 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterTestResult([TestResult name=verifyAddAddress status=SUCCESS method=VerifyCreateNewStudent.verifyAddAddress()[pr...)</span>
+                <span class="method-start">76654 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeTestResult(public void com.qa.test.create_new_student.VerifyCreateNewStudent.verifyAddedAddressName())</span>
+                <span class="method-start">76659 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">verifyAddedAddressName</span>
+                <span class="method-start">76663 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterTestResult([TestResult name=verifyAddedAddressName status=FAILURE method=VerifyCreateNewStudent.verifyAddedAddr...)</span>
+                <span class="method-start">86840 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeTestResult(public void com.qa.test.create_new_student.VerifyCreateNewStudent.addPassportDetails())</span>
+                <span class="method-start">87053 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">addPassportDetails</span>
+                <span class="method-start">87058 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterTestResult([TestResult name=addPassportDetails status=SUCCESS method=VerifyCreateNewStudent.addPassportDetails(...)</span>
+                <span class="method-start">89478 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-suite after">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">endExtentReport</span>
-                <span class="method-start">45541 ms</span>
+                <span class="method-start">89544 ms</span>
               </div> <!-- configuration-suite after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
