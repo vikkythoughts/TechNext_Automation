@@ -3,7 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
   <classes>
-  <class name="com.qa.test.create_new_student.VerifyCreateNewStudent"></class>
+  <class name="com.qa.test.AgentPortal.VerifyCreateNewStudent"/>
+  <class name="com.qa.test.AgentPortal.VerifyCreateNewApplication"/>
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

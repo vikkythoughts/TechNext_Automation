@@ -2,6 +2,8 @@ package common.util;
 
 import java.awt.AWTException;
 import java.awt.Robot;
+import java.awt.Toolkit;
+import java.awt.datatransfer.StringSelection;
 import java.awt.event.KeyEvent;
 import java.io.File;
 import java.io.IOException;
@@ -496,6 +498,24 @@ public class Utilities extends TestBase {
 	public static void javascriptClick(WebElement element) {
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 		js.executeScript("arguments[0].click()", element);
+	}
+	
+	//This function is used to upload file
+	public static void uploadFile(String strPath, WebElement ele) throws AWTException {
+		
+		waitForElementToBeClickableAndClick(ele);
+		Robot robot = new Robot();
+		robot.delay(2000);// wait for dialog to appear
+		StringSelection path = new StringSelection(strPath);
+		Toolkit.getDefaultToolkit().getSystemClipboard().setContents(path, null);
+		robot.keyPress(KeyEvent.VK_CONTROL);
+		robot.keyPress(KeyEvent.VK_V);
+		robot.keyRelease(KeyEvent.VK_V);
+		robot.keyRelease(KeyEvent.VK_CONTROL);
+		robot.delay(2000);
+		robot.keyPress(KeyEvent.VK_ENTER);
+		robot.keyRelease(KeyEvent.VK_ENTER);
+		robot.delay(5000); 
 	}
 
 }
